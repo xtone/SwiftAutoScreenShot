@@ -1,0 +1,23 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "packageRef" : {
+          "identity" : "swiftautoscreenshot",
+          "kind" : "root",
+          "location" : "/Users/goudaryuushi/github/SwiftAutoScreenShot",
+          "name" : "SwiftAutoScreenShot"
+        },
+        "path" : "/Users/goudaryuushi/github/SwiftAutoScreenShot/SwiftAutoScreenShot.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "SwiftAutoScreenShot"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 5
+}
