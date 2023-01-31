@@ -331,5 +331,13 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/CustomView\/StartDialog.swift",
+      "kind": "StringLiteral",
+      "offset": 552,
+      "length": 13,
+      "value": "\"StartDialog\""
+    }
+  ]
 }
