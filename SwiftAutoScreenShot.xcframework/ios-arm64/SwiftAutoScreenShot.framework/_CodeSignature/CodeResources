@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/SwiftAutoScreenShot-Swift.h</key>
+		<data>
+		HxlFmySOtKQfViP7deowxkKVFl8=
+		</data>
 		<key>Headers/SwiftAutoScreenShot.h</key>
 		<data>
 		8YbPu31svlNJdSl7mo/tRsxAm4o=
@@ -12,13 +16,44 @@
 		<data>
 		k4JGYVcw/QB+4s7Dzw5J/vVySXU=
 		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.abi.json</key>
+		<data>
+		8/GUqhbGFZTAQM1/iuYEMb0En1Q=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<data>
+		iR0Fn+72DXqxG760795/IMrarL0=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		wuQfolqjiUs1w7r7x1vcbl+a3yE=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		iR0Fn+72DXqxG760795/IMrarL0=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		MHUde3LUZenR2d7pwyF/hbj7p3Y=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		eti7A3ZMhLhyt5O5889S3Gk+mlc=
+		q0jWKcKriJz1+gCoxM5HdHmk970=
+		</data>
+		<key>StartDialog.nib</key>
+		<data>
+		KJPXzxBNSfprR/ykaOlmctppS6Q=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/SwiftAutoScreenShot-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qwaQRSmOGufLxrZ6A0wpfeIywO+ANNCagUdawEcOBBY=
+			</data>
+		</dict>
 		<key>Headers/SwiftAutoScreenShot.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +61,53 @@
 			TH/geGYhYGsGsGhxIE+eHwI8wfNeV5Mydt+V2gYXARw=
 			</data>
 		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WGTqpLbfDlMQXMsSt4ZvupbPAORCnTF7kEZ1Num/68Q=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tbsoRxmhyrIVGbEUdz7j74q265sAA0AE6E2ljjMW5sc=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N2QRrr8PHZPmQCehc5CXco3F7rgqWAm4Zowgz7OiK58=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tbsoRxmhyrIVGbEUdz7j74q265sAA0AE6E2ljjMW5sc=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			InMxSMs+n1AhN45dvBKm9HsZ5F2hx/SgiK7DQHFWEJ8=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pylXyyzWzmqLvlV8QRreepPbasFBo1cZcLFmHWouKLY=
+			WF6gOwZCT44kkb7HQHrxMacR50s0p/h9BRJvr5idsM0=
+			</data>
+		</dict>
+		<key>StartDialog.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yHZhrehmbTRDJQyw03r7B9ho7WcdPv+bPfkk8hBqtGw=
 			</data>
 		</dict>
 	</dict>

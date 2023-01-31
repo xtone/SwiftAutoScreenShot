@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/SwiftAutoScreenShot-Swift.h</key>
+		<data>
+		/7rjikc1W54D3mr5Hey3P30AuOo=
+		</data>
 		<key>Headers/SwiftAutoScreenShot.h</key>
 		<data>
 		8YbPu31svlNJdSl7mo/tRsxAm4o=
@@ -12,13 +16,64 @@
 		<data>
 		c79dzSQFSp4JYrX7TSBbEiU5unY=
 		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		8/GUqhbGFZTAQM1/iuYEMb0En1Q=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		NzI/KG6sq0xJ13hUtUk5ICUmyH0=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		mqHQIJE5O51R2iaZaOIF59j8ut4=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		NzI/KG6sq0xJ13hUtUk5ICUmyH0=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		Uzyxg81HBQSBjMp7xcXAKcVsM3g=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		8/GUqhbGFZTAQM1/iuYEMb0En1Q=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		iLLuZujw17DgP2vAz0M/0IkgTwk=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<data>
+		7s1tXoFItZ0bVjBc+cbLEcX6Fc0=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<data>
+		iLLuZujw17DgP2vAz0M/0IkgTwk=
+		</data>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<data>
+		LjHZTyzSb/yRMl8yhWJ10C3RYpM=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		eti7A3ZMhLhyt5O5889S3Gk+mlc=
+		q0jWKcKriJz1+gCoxM5HdHmk970=
+		</data>
+		<key>StartDialog.nib</key>
+		<data>
+		KJPXzxBNSfprR/ykaOlmctppS6Q=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/SwiftAutoScreenShot-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			xXJ4t5T+BHAtgdaCcM/UPZfJ3Umoh3wMazl0kbbE3VI=
+			</data>
+		</dict>
 		<key>Headers/SwiftAutoScreenShot.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +81,88 @@
 			TH/geGYhYGsGsGhxIE+eHwI8wfNeV5Mydt+V2gYXARw=
 			</data>
 		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WGTqpLbfDlMQXMsSt4ZvupbPAORCnTF7kEZ1Num/68Q=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L2z4d35kSU0V+bAFt2TIbQ4+iyQOiKyrA683fFNVn1E=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1uWOoer92Ui4+mBWZFrsZTTMI7XFb/LqXUQ45NUxpbw=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			L2z4d35kSU0V+bAFt2TIbQ4+iyQOiKyrA683fFNVn1E=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IPVnJjdD7NPWfcNf+HMXxwzoOcwU5z4jSYTajUHbOZY=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WGTqpLbfDlMQXMsSt4ZvupbPAORCnTF7kEZ1Num/68Q=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z3YYG4C6CMeacOW2BpvGexkWrd+qvg86XIUKI11l2EE=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mvpW7/oBHILWSsP9Y8DOD25s39BJRmBHwMFiAXOAGdM=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			z3YYG4C6CMeacOW2BpvGexkWrd+qvg86XIUKI11l2EE=
+			</data>
+		</dict>
+		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lao0Jqrnhzg+lGfi7NiIs9fMS14h6EDOxjrg9PgxTEw=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pylXyyzWzmqLvlV8QRreepPbasFBo1cZcLFmHWouKLY=
+			WF6gOwZCT44kkb7HQHrxMacR50s0p/h9BRJvr5idsM0=
+			</data>
+		</dict>
+		<key>StartDialog.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			yHZhrehmbTRDJQyw03r7B9ho7WcdPv+bPfkk8hBqtGw=
 			</data>
 		</dict>
 	</dict>

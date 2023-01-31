@@ -1,0 +1,335 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "TopLevel",
+    "printedName": "TopLevel",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot"
+      },
+      {
+        "kind": "Import",
+        "name": "Photos",
+        "printedName": "Photos",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "AutoScreenShot",
+        "printedName": "AutoScreenShot",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "AutoScreenShot",
+                "printedName": "SwiftAutoScreenShot.AutoScreenShot",
+                "usr": "s:19SwiftAutoScreenShot0bcD0C"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19SwiftAutoScreenShot0bcD0CACycfc",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0CACycfc",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "takeScreenShotWithScroll",
+            "printedName": "takeScreenShotWithScroll(targetViewController:bottomOffset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD10WithScroll20targetViewController12bottomOffsetySo06UIViewJ0C_14CoreFoundation7CGFloatVtF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD10WithScroll20targetViewController12bottomOffsetySo06UIViewJ0C_12CoreGraphics7CGFloatVtF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "takeScreenShot",
+            "printedName": "takeScreenShot(with:maxIndexPath:targetViewController:bottomOffset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UITableView",
+                "printedName": "UIKit.UITableView",
+                "usr": "c:objc(cs)UITableView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "IndexPath",
+                "printedName": "Foundation.IndexPath",
+                "usr": "s:10Foundation9IndexPathV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD04with12maxIndexPath20targetViewController12bottomOffsetySo07UITableK0C_10Foundation0hI0VSo06UIViewL0C04CoreP07CGFloatVtF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD04with12maxIndexPath20targetViewController12bottomOffsetySo07UITableK0C_10Foundation0hI0VSo06UIViewL0C12CoreGraphics7CGFloatVtF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "scroll",
+            "printedName": "scroll(currentOffset:isFirst:scroll:viewController:defaultOffsetY:bottomOffset:screenShots:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIScrollView",
+                "printedName": "UIKit.UIScrollView",
+                "usr": "c:objc(cs)UIScrollView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[UIKit.UIImage]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "paramValueOwnership": "InOut",
+                "usr": "s:Sa"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C6scroll13currentOffset7isFirstAD14viewController07defaultG1Y06bottomG011screenShotsy14CoreFoundation7CGFloatV_SbSo12UIScrollViewCSo06UIViewK0CA2MSaySo7UIImageCGztF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C6scroll13currentOffset7isFirstAD14viewController07defaultG1Y06bottomG011screenShotsy12CoreGraphics7CGFloatV_SbSo12UIScrollViewCSo06UIViewK0CA2MSaySo7UIImageCGztF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "takeScreenShot",
+            "printedName": "takeScreenShot(targetView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD010targetViewySo6UIViewCSg_tF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD010targetViewySo6UIViewCSg_tF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "takeScreenShotWithoutScrollView",
+            "printedName": "takeScreenShotWithoutScrollView(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD17WithoutScrollViewyySo16UIViewControllerCF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD17WithoutScrollViewyySo16UIViewControllerCF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "takeScreenShot",
+            "printedName": "takeScreenShot(targetScrollView:targetViewController:bottomOffset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIScrollView",
+                "printedName": "UIKit.UIScrollView",
+                "usr": "c:objc(cs)UIScrollView"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD016targetScrollView0fH10Controller12bottomOffsetySo08UIScrollH0C_So06UIViewI0C14CoreFoundation7CGFloatVtF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD016targetScrollView0fH10Controller12bottomOffsetySo08UIScrollH0C_So06UIViewI0C12CoreGraphics7CGFloatVtF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:19SwiftAutoScreenShot0bcD0C",
+        "mangledName": "$s19SwiftAutoScreenShot0bcD0C",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": []
+}

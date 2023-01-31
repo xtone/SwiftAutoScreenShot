@@ -4,3 +4,8 @@ framework module SwiftAutoScreenShot {
   export *
   module * { export * }
 }
+
+module SwiftAutoScreenShot.Swift {
+  header "SwiftAutoScreenShot-Swift.h"
+  requires objc
+}

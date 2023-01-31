@@ -1,0 +1,21 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
+// swift-module-flags: -target arm64-apple-ios16.1 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SwiftAutoScreenShot
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import Foundation
+import Photos
+import Swift
+@_exported import SwiftAutoScreenShot
+import UIKit
+import _Concurrency
+import _StringProcessing
+public class AutoScreenShot {
+  public init()
+  public func takeScreenShotWithScroll(targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
+  public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
+  public func scroll(currentOffset: CoreFoundation.CGFloat, isFirst: Swift.Bool, scroll: UIKit.UIScrollView, viewController: UIKit.UIViewController, defaultOffsetY: CoreFoundation.CGFloat, bottomOffset: CoreFoundation.CGFloat, screenShots: inout [UIKit.UIImage])
+  public func takeScreenShot(targetView: UIKit.UIView?)
+  public func takeScreenShotWithoutScrollView(_ targetViewController: UIKit.UIViewController)
+  public func takeScreenShot(targetScrollView: UIKit.UIScrollView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
+  @objc deinit
+}
