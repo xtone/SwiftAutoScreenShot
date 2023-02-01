@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		8/GUqhbGFZTAQM1/iuYEMb0En1Q=
+		46ceGe43mXAbHkYE3WCog6K4NJ0=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		MHUde3LUZenR2d7pwyF/hbj7p3Y=
+		+9e3+Ye6OnkG5/Hwbeswo5BNrpU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -65,7 +65,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WGTqpLbfDlMQXMsSt4ZvupbPAORCnTF7kEZ1Num/68Q=
+			IRPcE2eTUOZU1orWYDKcAiXcWYq0ozwVDuA7y0smeIc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -93,7 +93,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			InMxSMs+n1AhN45dvBKm9HsZ5F2hx/SgiK7DQHFWEJ8=
+			k4iqOqFzkWKfGzOuy6kxoyRWqCn+1p2nuPcl+V28dgk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
