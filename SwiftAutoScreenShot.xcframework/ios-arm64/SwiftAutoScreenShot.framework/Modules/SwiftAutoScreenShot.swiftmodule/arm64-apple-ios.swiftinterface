@@ -10,6 +10,7 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 public class AutoScreenShot {
+  public var isSaveAllScreenShot: Swift.Bool
   public init()
   public func takeScreenShotWithScroll(targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
   public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
