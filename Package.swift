@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(
             name: "SwiftAutoScreenShot",
             url: "https://github.com/xtone/SwiftAutoScreenShot/releases/download/2023_0307_ver0.10003/SwiftAutoScreenShot.xcframework.zip",
-            checksum: "0612828ea27568ea5c5caec5cb990beee091ba73785e2b2b97db257d41b1526c"
+            checksum: "032bc400a2613cc6d10d760dcb19a47520e72a51ed3528edb696a5641d62fb56"
         )
     ]
 )
