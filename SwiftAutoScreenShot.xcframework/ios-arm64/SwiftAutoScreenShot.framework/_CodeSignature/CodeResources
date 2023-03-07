@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		WG9P21xCb5msKfJxd32YulpgVd0=
+		ALch54JqQBcjTBoTZG5jtYywMKA=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		zOg7SdvLaM63D8+38wJeuk+dDXM=
+		GY229p+eD1GIU95jEFoSgBGvhaU=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		zOg7SdvLaM63D8+38wJeuk+dDXM=
+		GY229p+eD1GIU95jEFoSgBGvhaU=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		lU7rCxDyfbBBrcj8DbKkQdwBS9E=
+		LH4G1MaKzg9XvaH8UkbnZ6/lgSs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,6 +43,18 @@
 		<key>StartDialog.nib</key>
 		<data>
 		swk9XyPShd0k1VwOR2eJOVPbv5Y=
+		</data>
+		<key>UploadProgress.storyboardc/Info.plist</key>
+		<data>
+		4qsP0EGyGDo5rGqxslTm4ICj3sc=
+		</data>
+		<key>UploadProgress.storyboardc/uXM-50-QAG-view-af6-1S-2xP.nib</key>
+		<data>
+		SHo0NsXCh/pino5S3QL5lYG4rAU=
+		</data>
+		<key>UploadProgress.storyboardc/uploadProgress.nib</key>
+		<data>
+		kqnACuMqd5Nz2eegsOV0Kn5PHFo=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -65,14 +77,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lebpjsmyoEBP+MkIt6q6M0bzYC2Mb1lC/FAfaxgFjN4=
+			f6LTeg6POOtarJDXZH6soMKirF4AadfoiCPTsUXbHkI=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bginuQPT0xGBSWRXNawg1+x3ubhFMKlU6CyC4DJghY8=
+			2q4CaOTIePU0qLA2sclHQlr7jD9YJrmDnlHiipjiYXc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -86,14 +98,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bginuQPT0xGBSWRXNawg1+x3ubhFMKlU6CyC4DJghY8=
+			2q4CaOTIePU0qLA2sclHQlr7jD9YJrmDnlHiipjiYXc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			98eAOP/Sx424bhbc4v0ujlxJuFPZkt+/wlNW/lDapok=
+			pDFec8M6rVyYX03/CwQh3KREQU4mu4s51dbhdfKsLZY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -108,6 +120,27 @@
 			<key>hash2</key>
 			<data>
 			P48nfAsgG/F6NFotO+p4JzM22hJsspXFI40Ye60Oc/A=
+			</data>
+		</dict>
+		<key>UploadProgress.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tO5OUF0fK0f+/9DjE8ffsjuelZoyHlPp0AWnqgaQgeE=
+			</data>
+		</dict>
+		<key>UploadProgress.storyboardc/uXM-50-QAG-view-af6-1S-2xP.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IbLpWDaA3f8Mw5i0LxANLmABAkzhWqls2AHBo050HXM=
+			</data>
+		</dict>
+		<key>UploadProgress.storyboardc/uploadProgress.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			8jAsNjXQr7wowO66Se9PKLzV1h2lgb7Hw5Od6RlHrBg=
 			</data>
 		</dict>
 	</dict>

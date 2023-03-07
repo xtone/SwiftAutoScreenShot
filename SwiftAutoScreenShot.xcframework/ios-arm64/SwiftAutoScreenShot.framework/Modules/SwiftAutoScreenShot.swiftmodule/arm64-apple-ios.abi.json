@@ -23,6 +23,23 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot"
+      },
+      {
+        "kind": "Import",
         "name": "Photos",
         "printedName": "Photos",
         "declKind": "Import",
@@ -122,18 +139,30 @@
           {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init()",
+            "printedName": "init(apiKey:projectId:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "AutoScreenShot",
                 "printedName": "SwiftAutoScreenShot.AutoScreenShot",
                 "usr": "s:19SwiftAutoScreenShot0bcD0C"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:19SwiftAutoScreenShot0bcD0CACycfc",
-            "mangledName": "$s19SwiftAutoScreenShot0bcD0CACycfc",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C6apiKey9projectIdACSS_SStcfc",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C6apiKey9projectIdACSS_SStcfc",
             "moduleName": "SwiftAutoScreenShot",
             "declAttributes": [
               "AccessControl",
@@ -214,78 +243,6 @@
             "moduleName": "SwiftAutoScreenShot",
             "declAttributes": [
               "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
-            "kind": "Function",
-            "name": "scroll",
-            "printedName": "scroll(currentOffset:isFirst:scroll:viewController:defaultOffsetY:bottomOffset:screenShots:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
-                "usr": "s:Sb"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIScrollView",
-                "printedName": "UIKit.UIScrollView",
-                "usr": "c:objc(cs)UIScrollView"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "UIViewController",
-                "printedName": "UIKit.UIViewController",
-                "usr": "c:objc(cs)UIViewController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "CGFloat",
-                "printedName": "CoreGraphics.CGFloat",
-                "usr": "s:14CoreFoundation7CGFloatV"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Array",
-                "printedName": "[UIKit.UIImage]",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "UIImage",
-                    "printedName": "UIKit.UIImage",
-                    "usr": "c:objc(cs)UIImage"
-                  }
-                ],
-                "paramValueOwnership": "InOut",
-                "usr": "s:Sa"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:19SwiftAutoScreenShot0bcD0C6scroll13currentOffset7isFirstAD14viewController07defaultG1Y06bottomG011screenShotsy14CoreFoundation7CGFloatV_SbSo12UIScrollViewCSo06UIViewK0CA2MSaySo7UIImageCGztF",
-            "mangledName": "$s19SwiftAutoScreenShot0bcD0C6scroll13currentOffset7isFirstAD14viewController07defaultG1Y06bottomG011screenShotsy12CoreGraphics7CGFloatV_SbSo12UIScrollViewCSo06UIViewK0CA2MSaySo7UIImageCGztF",
-            "moduleName": "SwiftAutoScreenShot",
-            "declAttributes": [
-              "AccessControl",
-              "RawDocComment"
             ],
             "funcSelfKind": "NonMutating"
           },
@@ -414,11 +371,59 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "SwiftAutoScreenShot"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "StringLiteral",
+      "offset": 226,
+      "length": 43,
+      "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/loginByKey\""
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "StringLiteral",
+      "offset": 296,
+      "length": 38,
+      "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/teams\""
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "StringLiteral",
+      "offset": 371,
+      "length": 48,
+      "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/screenshot\/send\""
+    },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
@@ -432,6 +437,13 @@
       "offset": 667,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/UploadProgress.swift",
+      "kind": "BooleanLiteral",
+      "offset": 453,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/CustomView\/StartDialog.swift",
