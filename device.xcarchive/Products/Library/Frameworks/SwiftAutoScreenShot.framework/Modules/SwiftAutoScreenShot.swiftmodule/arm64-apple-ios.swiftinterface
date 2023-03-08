@@ -9,13 +9,20 @@ import Swift
 import UIKit
 import _Concurrency
 import _StringProcessing
-public class AutoScreenShot {
+@_hasMissingDesignatedInitializers public class AutoScreenShot {
   public var isSaveAllScreenShot: Swift.Bool
-  public init(apiKey: Swift.String, projectId: Swift.String)
-  public func takeScreenShotWithScroll(targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
-  public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
-  public func takeScreenShot(targetView: UIKit.UIView?)
-  public func takeScreenShotWithoutScrollView(_ targetViewController: UIKit.UIViewController)
-  public func takeScreenShot(targetScrollView: UIKit.UIScrollView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
+  public var saveImageToLocal: Swift.Bool
+  public static let shared: SwiftAutoScreenShot.AutoScreenShot
+  public func setup(apiKey: Swift.String, projectId: Swift.String)
   @objc deinit
+}
+extension SwiftAutoScreenShot.AutoScreenShot {
+  public func takeScreenShotWithoutScrollView(_ targetViewController: UIKit.UIViewController)
+}
+extension SwiftAutoScreenShot.AutoScreenShot {
+  public func takeScreenShot(targetScrollView: UIKit.UIScrollView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
+  public func takeScreenShotWithScroll(targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
+}
+extension SwiftAutoScreenShot.AutoScreenShot {
+  public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
 }
