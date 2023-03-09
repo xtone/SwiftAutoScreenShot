@@ -25,4 +25,5 @@ extension SwiftAutoScreenShot.AutoScreenShot {
 }
 extension SwiftAutoScreenShot.AutoScreenShot {
   public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
+  public func takeScreenShotWithTableView(targetTableView: UIKit.UITableView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat)
 }
