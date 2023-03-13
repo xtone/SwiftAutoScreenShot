@@ -337,7 +337,7 @@
           {
             "kind": "Function",
             "name": "takeScreenShot",
-            "printedName": "takeScreenShot(targetScrollView:targetViewController:bottomOffset:)",
+            "printedName": "takeScreenShot(targetScrollView:targetViewController:bottomOffset:topOffset:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -361,11 +361,25 @@
                 "name": "CGFloat",
                 "printedName": "CoreGraphics.CGFloat",
                 "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD016targetScrollView0fH10Controller12bottomOffsetySo08UIScrollH0C_So06UIViewI0C14CoreFoundation7CGFloatVtF",
-            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD016targetScrollView0fH10Controller12bottomOffsetySo08UIScrollH0C_So06UIViewI0C12CoreGraphics7CGFloatVtF",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD016targetScrollView0fH10Controller12bottomOffset03topK0ySo08UIScrollH0C_So06UIViewI0C14CoreFoundation7CGFloatVAOSgtF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD016targetScrollView0fH10Controller12bottomOffset03topK0ySo08UIScrollH0C_So06UIViewI0C12CoreGraphics7CGFloatVAOSgtF",
             "moduleName": "SwiftAutoScreenShot",
             "declAttributes": [
               "AccessControl",
@@ -377,7 +391,7 @@
           {
             "kind": "Function",
             "name": "takeScreenShotWithScroll",
-            "printedName": "takeScreenShotWithScroll(targetViewController:bottomOffset:)",
+            "printedName": "takeScreenShotWithScroll(targetViewController:bottomOffset:topOffset:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -395,11 +409,25 @@
                 "name": "CGFloat",
                 "printedName": "CoreGraphics.CGFloat",
                 "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD10WithScroll20targetViewController12bottomOffsetySo06UIViewJ0C_14CoreFoundation7CGFloatVtF",
-            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD10WithScroll20targetViewController12bottomOffsetySo06UIViewJ0C_12CoreGraphics7CGFloatVtF",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD10WithScroll20targetViewController12bottomOffset03topL0ySo06UIViewJ0C_14CoreFoundation7CGFloatVALSgtF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD10WithScroll20targetViewController12bottomOffset03topL0ySo06UIViewJ0C_12CoreGraphics7CGFloatVALSgtF",
             "moduleName": "SwiftAutoScreenShot",
             "declAttributes": [
               "AccessControl",
@@ -411,7 +439,7 @@
           {
             "kind": "Function",
             "name": "takeScreenShot",
-            "printedName": "takeScreenShot(with:maxIndexPath:targetViewController:bottomOffset:)",
+            "printedName": "takeScreenShot(with:maxIndexPath:targetViewController:bottomOffset:topOffset:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -441,11 +469,25 @@
                 "name": "CGFloat",
                 "printedName": "CoreGraphics.CGFloat",
                 "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD04with12maxIndexPath20targetViewController12bottomOffsetySo07UITableK0C_10Foundation0hI0VSo06UIViewL0C04CoreP07CGFloatVtF",
-            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD04with12maxIndexPath20targetViewController12bottomOffsetySo07UITableK0C_10Foundation0hI0VSo06UIViewL0C12CoreGraphics7CGFloatVtF",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD04with12maxIndexPath20targetViewController12bottomOffset03topN0ySo07UITableK0C_10Foundation0hI0VSo06UIViewL0C04CoreQ07CGFloatVASSgtF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD04with12maxIndexPath20targetViewController12bottomOffset03topN0ySo07UITableK0C_10Foundation0hI0VSo06UIViewL0C12CoreGraphics7CGFloatVASSgtF",
             "moduleName": "SwiftAutoScreenShot",
             "declAttributes": [
               "AccessControl"
@@ -456,7 +498,7 @@
           {
             "kind": "Function",
             "name": "takeScreenShotWithTableView",
-            "printedName": "takeScreenShotWithTableView(targetTableView:targetViewController:bottomOffset:)",
+            "printedName": "takeScreenShotWithTableView(targetTableView:targetViewController:bottomOffset:topOffset:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -480,11 +522,25 @@
                 "name": "CGFloat",
                 "printedName": "CoreGraphics.CGFloat",
                 "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "CoreGraphics.CGFloat?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CGFloat",
+                    "printedName": "CoreGraphics.CGFloat",
+                    "usr": "s:14CoreFoundation7CGFloatV"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD13WithTableView06targetgH00iH10Controller12bottomOffsetySo07UITableH0C_So06UIViewJ0C14CoreFoundation7CGFloatVtF",
-            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD13WithTableView06targetgH00iH10Controller12bottomOffsetySo07UITableH0C_So06UIViewJ0C12CoreGraphics7CGFloatVtF",
+            "usr": "s:19SwiftAutoScreenShot0bcD0C04takecD13WithTableView06targetgH00iH10Controller12bottomOffset03topL0ySo07UITableH0C_So06UIViewJ0C14CoreFoundation7CGFloatVAOSgtF",
+            "mangledName": "$s19SwiftAutoScreenShot0bcD0C04takecD13WithTableView06targetgH00iH10Controller12bottomOffset03topL0ySo07UITableH0C_So06UIViewJ0C12CoreGraphics7CGFloatVAOSgtF",
             "moduleName": "SwiftAutoScreenShot",
             "declAttributes": [
               "AccessControl"
@@ -623,126 +679,140 @@
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 8795,
+      "offset": 10214,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 9040,
+      "offset": 10459,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 9046,
+      "offset": 10465,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 9786,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9817,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
-      "kind": "BooleanLiteral",
-      "offset": 9888,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
-      "kind": "IntegerLiteral",
-      "offset": 10456,
+      "offset": 11205,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 10487,
+      "offset": 11236,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11307,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 10632,
+      "offset": 11897,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11928,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12073,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 11286,
+      "offset": 12454,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12876,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 11290,
+      "offset": 12880,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 11694,
+      "offset": 13284,
       "length": 16,
       "value": "\"UploadProgress\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 11770,
+      "offset": 13360,
       "length": 16,
       "value": "\"uploadProgress\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 11866,
+      "offset": 13456,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 12241,
+      "offset": 13831,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 12272,
+      "offset": 13862,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 12516,
+      "offset": 14106,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14515,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 12970,
+      "offset": 14712,
       "length": 5,
       "value": "false"
     },
