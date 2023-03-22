@@ -609,23 +609,44 @@
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 226,
+      "offset": 234,
       "length": 43,
       "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/loginByKey\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 296,
+      "offset": 312,
       "length": 38,
       "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/teams\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 371,
+      "offset": 395,
       "length": 48,
       "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/screenshot\/send\""
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "StringLiteral",
+      "offset": 481,
+      "length": 46,
+      "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/compareStatus\""
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "IntegerLiteral",
+      "offset": 627,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "IntegerLiteral",
+      "offset": 707,
+      "length": 1,
+      "value": "5"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",

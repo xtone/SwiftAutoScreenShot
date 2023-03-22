@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		L5H3gfHBc9fBVeqMGjPozz1Tle4=
+		9OmmkvLW6CAsiVwZNu7hcpQwIWM=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JpNbwq8Xb/UxZLanS/cpjUleg9o=
+		ZZSjJzafgJcX+bhQcWOqkrXCSYM=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		L5H3gfHBc9fBVeqMGjPozz1Tle4=
+		9OmmkvLW6CAsiVwZNu7hcpQwIWM=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		YmfL9VxQjnVvT6FRanBOnETGSzU=
+		bBSPge7tLagMoTWQeiaEtfuGe54=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LCWMjtILtmeTS1GvjvNT2RC8D6mS6GG6SdFYo20vH8E=
+			C7AvlaFZN3PGY2tz2vDzsXKosGw+CXjRJqKqaRMk7k4=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p4/G54ZBaI2r8mefCDVmide0VAD418dgITU4zXUz1oI=
+			PZsmWapN0T7FeQIivXyJfG//BNVD5BwO6tOWoXFVzl8=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LCWMjtILtmeTS1GvjvNT2RC8D6mS6GG6SdFYo20vH8E=
+			C7AvlaFZN3PGY2tz2vDzsXKosGw+CXjRJqKqaRMk7k4=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lv7yG9AT8O/tCb5y/MHzZ0N/ju2MHdDkAcSn2x0UV7s=
+			ncruoL5KbHpeER/Ptw1Av0SBIe+XrNc4SlIgHsQa1Xc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
