@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		2rsqo4SX0KC4V30zUMtqC/5JQzk=
+		lSrmGMZy7w4QurCt9IuF0w4Y2ao=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		1pEvgu+cPJCtVALjyuBw4tEEGy8=
+		3DRvhGTtHaMx4UFnTMgoIcY/yaM=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		2rsqo4SX0KC4V30zUMtqC/5JQzk=
+		lSrmGMZy7w4QurCt9IuF0w4Y2ao=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		JfHVBGbl/wqHKbbj1vE77vahhTc=
+		PBY82yK2TWc51tb2LyOEzhBGNSg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0ABdmN8jbmVxLvDaHqp3/pR9g93HI21tdpIoWaEsc6s=
+			CTzLGK3oESOqKAULCtDEi+l0k7Ga8XzgtIYSODsryaM=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bZipOVgIQjl3O2lC6v+mdnCLVsqshtsyOAjBk5zDMlE=
+			BNYdPkbVJEnbTD9SDILYGKXRrDvCbrBlFsJW76OMGwc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0ABdmN8jbmVxLvDaHqp3/pR9g93HI21tdpIoWaEsc6s=
+			CTzLGK3oESOqKAULCtDEi+l0k7Ga8XzgtIYSODsryaM=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QPFqM1pTLTQNEkj39P7uTevm/1yvIDF8w/MY68ezWMA=
+			LEZALCHV74nY9i0C6+ZwDqmdsl/NtKtya2CkEhMPwLk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
