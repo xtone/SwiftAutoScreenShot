@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		NGP2DCpaLWuzRqUVq6eQ1LTOclo=
+		2rsqo4SX0KC4V30zUMtqC/5JQzk=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		AxZTPfgtt/rmCUUyk1Sb7jqsUi0=
+		1pEvgu+cPJCtVALjyuBw4tEEGy8=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		NGP2DCpaLWuzRqUVq6eQ1LTOclo=
+		2rsqo4SX0KC4V30zUMtqC/5JQzk=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Mnm56PRn1YHvmZ5Sb86esGDhKUI=
+		JfHVBGbl/wqHKbbj1vE77vahhTc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h7L6eoaHyNsTuqrDpP5y5E6/VjE7HttSOVCwUf+DKes=
+			0ABdmN8jbmVxLvDaHqp3/pR9g93HI21tdpIoWaEsc6s=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q8oFT8ubHYLNZQQfkud0/bNe2p+lFdgD9agoHNh8ti8=
+			bZipOVgIQjl3O2lC6v+mdnCLVsqshtsyOAjBk5zDMlE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h7L6eoaHyNsTuqrDpP5y5E6/VjE7HttSOVCwUf+DKes=
+			0ABdmN8jbmVxLvDaHqp3/pR9g93HI21tdpIoWaEsc6s=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yjmOe6LrfVdJ8Hech6uY/aToPaQ7uRuvWoWmbvdkMuo=
+			QPFqM1pTLTQNEkj39P7uTevm/1yvIDF8w/MY68ezWMA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
