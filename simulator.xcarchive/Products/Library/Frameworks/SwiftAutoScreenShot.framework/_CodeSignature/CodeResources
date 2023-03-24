@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		9OmmkvLW6CAsiVwZNu7hcpQwIWM=
+		NGP2DCpaLWuzRqUVq6eQ1LTOclo=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZZSjJzafgJcX+bhQcWOqkrXCSYM=
+		AxZTPfgtt/rmCUUyk1Sb7jqsUi0=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		9OmmkvLW6CAsiVwZNu7hcpQwIWM=
+		NGP2DCpaLWuzRqUVq6eQ1LTOclo=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bBSPge7tLagMoTWQeiaEtfuGe54=
+		Mnm56PRn1YHvmZ5Sb86esGDhKUI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C7AvlaFZN3PGY2tz2vDzsXKosGw+CXjRJqKqaRMk7k4=
+			h7L6eoaHyNsTuqrDpP5y5E6/VjE7HttSOVCwUf+DKes=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PZsmWapN0T7FeQIivXyJfG//BNVD5BwO6tOWoXFVzl8=
+			Q8oFT8ubHYLNZQQfkud0/bNe2p+lFdgD9agoHNh8ti8=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C7AvlaFZN3PGY2tz2vDzsXKosGw+CXjRJqKqaRMk7k4=
+			h7L6eoaHyNsTuqrDpP5y5E6/VjE7HttSOVCwUf+DKes=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ncruoL5KbHpeER/Ptw1Av0SBIe+XrNc4SlIgHsQa1Xc=
+			yjmOe6LrfVdJ8Hech6uY/aToPaQ7uRuvWoWmbvdkMuo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
