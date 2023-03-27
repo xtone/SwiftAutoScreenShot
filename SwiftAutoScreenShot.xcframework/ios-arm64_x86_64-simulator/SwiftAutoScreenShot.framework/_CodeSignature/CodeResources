@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		lSrmGMZy7w4QurCt9IuF0w4Y2ao=
+		rgNKYKqB0umzKBWxGbHckqyXF7I=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		3DRvhGTtHaMx4UFnTMgoIcY/yaM=
+		1ivnB9X0IdcbnRIcGHdwOIOfDc0=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		lSrmGMZy7w4QurCt9IuF0w4Y2ao=
+		rgNKYKqB0umzKBWxGbHckqyXF7I=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		PBY82yK2TWc51tb2LyOEzhBGNSg=
+		xXncZaavMTwnwOlQfgO4ryFoMKc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CTzLGK3oESOqKAULCtDEi+l0k7Ga8XzgtIYSODsryaM=
+			5aV2m6hA1Lhw/8p7UqHYPFQJygABNtnHryytdzDFJhg=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BNYdPkbVJEnbTD9SDILYGKXRrDvCbrBlFsJW76OMGwc=
+			dY4Aijz/ZM1vfgs4MPSWIBb9jz7B+DFLSEJxW0KYPlE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CTzLGK3oESOqKAULCtDEi+l0k7Ga8XzgtIYSODsryaM=
+			5aV2m6hA1Lhw/8p7UqHYPFQJygABNtnHryytdzDFJhg=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LEZALCHV74nY9i0C6+ZwDqmdsl/NtKtya2CkEhMPwLk=
+			Thia7NCDOJv0R1tInk1XirSgKaJM5GJsE7fVJObgle8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
