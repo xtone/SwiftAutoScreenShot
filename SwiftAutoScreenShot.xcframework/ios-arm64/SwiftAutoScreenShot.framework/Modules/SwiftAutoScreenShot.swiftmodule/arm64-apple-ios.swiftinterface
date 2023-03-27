@@ -24,6 +24,6 @@ extension SwiftAutoScreenShot.AutoScreenShot {
   @_Concurrency.MainActor public func takeScreenShotWithScroll(targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
 }
 extension SwiftAutoScreenShot.AutoScreenShot {
-  public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
-  public func takeScreenShotWithTableView(targetTableView: UIKit.UITableView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
+  @_Concurrency.MainActor public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
+  @_Concurrency.MainActor public func takeScreenShotWithTableView(targetTableView: UIKit.UITableView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
 }
