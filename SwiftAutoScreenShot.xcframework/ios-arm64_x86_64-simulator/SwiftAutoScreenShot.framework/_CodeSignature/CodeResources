@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		NqSX3eA54b782NiH0MSNjJOaRag=
+		u2jofhUs2bgCrNOJmV+B/S3fzuc=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kznGgsDm3NZRxTBocNTaxzu1K3E=
+		Hj2tfBbGAO2p7aOCHor3aTP2naI=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		NqSX3eA54b782NiH0MSNjJOaRag=
+		u2jofhUs2bgCrNOJmV+B/S3fzuc=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZTyf8bxf0eldIZ8HNOZ/Tz9siNo=
+		xwwto/rO89Cy9FxHw7InzUs2N3U=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uu5PAvAAVey/rYznEvuo0MazgiwjGxyrF3NnRUaW9qM=
+			z43CDFLDHhf7CHMAJhOidcUVLBj6Wn5GfL3bInkq53U=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BahRPk3PrPbsqyEY+KYQ3c0i4+Rw82CVYbg5F75AnPo=
+			eKCeb4zJOh/nAhll3t+bItyDOzRpgg/RSszHuccdcMA=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uu5PAvAAVey/rYznEvuo0MazgiwjGxyrF3NnRUaW9qM=
+			z43CDFLDHhf7CHMAJhOidcUVLBj6Wn5GfL3bInkq53U=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xv2oRvQN8qZgGgihoA8laf7LVnwILD1IBB40zLlb808=
+			mIGyoYV3MWcgwMWsYUi3o8vzkvfUGszpogmZHfMt6JM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
