@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/SwiftAutoScreenShot-Swift.h</key>
 		<data>
-		HxlFmySOtKQfViP7deowxkKVFl8=
+		J5yPnXwVvrlZiEv/vyKF/GYNbPY=
 		</data>
 		<key>Headers/SwiftAutoScreenShot.h</key>
 		<data>
@@ -14,27 +14,27 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		k4JGYVcw/QB+4s7Dzw5J/vVySXU=
+		yL1tvC0WvXEflau+lPFLFhRE2y8=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		K22yKxzTP/gxMa0LFpAU5c0iYgQ=
+		xrJ418Pulj5IKDUt3O8D7NZ9n1E=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		jc8Djds230Zk3MPO3IduLYsg64s=
+		w83fHHzpYAo0G7upFxMb9j9wpME=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		wuQfolqjiUs1w7r7x1vcbl+a3yE=
+		CKDaWOY2RANKVEKtELZdoVI/03c=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		jc8Djds230Zk3MPO3IduLYsg64s=
+		w83fHHzpYAo0G7upFxMb9j9wpME=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		PxgDK3wpNbulhBHYIA5Oa0ppDXA=
+		qTN3S9rowgeXIOjitocnpjVg+2A=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qwaQRSmOGufLxrZ6A0wpfeIywO+ANNCagUdawEcOBBY=
+			xNv3FrJdNS+Ks1py8uF8/f7zuOzSvyBiYiZYKmyo4tA=
 			</data>
 		</dict>
 		<key>Headers/SwiftAutoScreenShot.h</key>
@@ -77,35 +77,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VUR7lNFgCh6oun57p/kpayqUVjAbbeP05x+AjMx4jXw=
+			8ATYoyZxYOh2P3dcuXv2Aw96xkw9g4pW0H1FvDJynzE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Zu6ijB4jHp1VpuY9TgXpM0Yqom2fYAJ0boD5qdu1kw=
+			D7KTVFojaWcvsUnTwBidln0f3aiWhRe7e8U4uF9gTBk=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N2QRrr8PHZPmQCehc5CXco3F7rgqWAm4Zowgz7OiK58=
+			LVn8w3WNxz3rXAurkSCR048c6bf/GkQjTLwT0bpfD3U=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Zu6ijB4jHp1VpuY9TgXpM0Yqom2fYAJ0boD5qdu1kw=
+			D7KTVFojaWcvsUnTwBidln0f3aiWhRe7e8U4uF9gTBk=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RNiZutvOheBCnMrnO+cIJ3AJ+8KCdiHz8GcejQ2eksk=
+			jyTUSNLOnfTzWY1VNH2pB2ZIlygTNkRqL09RtuhFoEY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
