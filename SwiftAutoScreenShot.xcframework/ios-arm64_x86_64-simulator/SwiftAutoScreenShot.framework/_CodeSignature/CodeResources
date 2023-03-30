@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		CvY2k8/hPGmWFFevYYZRVXEtwrk=
+		JMRmkwReyLSDNxSjJCCcT0ewT30=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		u29OrE7kjMt0hNaNQQrrdCAti4I=
+		hbvlF9x/5emcQgN48/4jdPZdIhk=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CvY2k8/hPGmWFFevYYZRVXEtwrk=
+		JMRmkwReyLSDNxSjJCCcT0ewT30=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MAdhvFJpwVkBIQIQ+RGeQCnZ+os=
+		z3+19+4Tch1nie9qxW+ptigyS/4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			uX4odyX7btCOHDJEuEiMScvlrxFFSDf8UeSVdrPnlv0=
+			RxmoWHplvd6RyK1IQxo9zwj51jTye9W9mpAQGHPePlE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Jre15Nl4hRiV21A3sp1Rgu926MiZ6Bj6zxxKkOMhdWI=
+			y+2eUoNdFX4L9SgEkeVKg/Rcd0qLQ/2DPELZV9bAswc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uX4odyX7btCOHDJEuEiMScvlrxFFSDf8UeSVdrPnlv0=
+			RxmoWHplvd6RyK1IQxo9zwj51jTye9W9mpAQGHPePlE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			B+HtglKn+ROFWvZjtgN9xRS5QZILhHBfYkr6UAfr16c=
+			ERyF37JDjzKbiaHyUOQZN7YUDretwg8+i8hQCgSENRU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
