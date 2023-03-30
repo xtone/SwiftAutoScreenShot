@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		JMRmkwReyLSDNxSjJCCcT0ewT30=
+		CqSXAIM8m0f6shD8cSRf1Z+iEgs=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		hbvlF9x/5emcQgN48/4jdPZdIhk=
+		axHbBvfq80LqIh/Seq8iKFUqweA=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		JMRmkwReyLSDNxSjJCCcT0ewT30=
+		CqSXAIM8m0f6shD8cSRf1Z+iEgs=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z3+19+4Tch1nie9qxW+ptigyS/4=
+		gF9VnEiRib/S+45a7Wza0iziXTs=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RxmoWHplvd6RyK1IQxo9zwj51jTye9W9mpAQGHPePlE=
+			R6ia6IgtrPtPF/ME1FvnRc/+e+RsT9NS9uq0WA/KX8A=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			y+2eUoNdFX4L9SgEkeVKg/Rcd0qLQ/2DPELZV9bAswc=
+			2sK0xCd0I8yY9h+9QU2AVUJdc7+FlsjdML3rrIBG3ss=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RxmoWHplvd6RyK1IQxo9zwj51jTye9W9mpAQGHPePlE=
+			R6ia6IgtrPtPF/ME1FvnRc/+e+RsT9NS9uq0WA/KX8A=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ERyF37JDjzKbiaHyUOQZN7YUDretwg8+i8hQCgSENRU=
+			MV78fT0JWTrJxI9if7tZAGlRDXV6NtN1A+2X2FqnFTg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
