@@ -1728,251 +1728,251 @@
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
       "offset": 12121,
-      "length": 9,
-      "value": "1000000"
+      "length": 13,
+      "value": "1000000000"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 12293,
+      "offset": 12297,
       "length": 47,
       "value": "\"スリープがキャンセルされました\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 12447,
+      "offset": 12451,
       "length": 23,
       "value": "\"スリープエラー\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 12575,
+      "offset": 12579,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 13159,
+      "offset": 13163,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 13190,
+      "offset": 13194,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 13402,
-      "length": 9,
-      "value": "1000000"
+      "offset": 13406,
+      "length": 13,
+      "value": "1000000000"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 13574,
+      "offset": 13582,
       "length": 47,
       "value": "\"スリープがキャンセルされました\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 13728,
+      "offset": 13736,
       "length": 23,
       "value": "\"スリープエラー\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 14169,
+      "offset": 14177,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 14803,
+      "offset": 14817,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 14807,
+      "offset": 14821,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 15163,
+      "offset": 15177,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 15507,
+      "offset": 15521,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 15538,
+      "offset": 15552,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 15793,
-      "length": 9,
-      "value": "1000000"
+      "offset": 15807,
+      "length": 13,
+      "value": "1000000000"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 15949,
+      "offset": 15967,
       "length": 47,
       "value": "\"スリープがキャンセルされました\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 16091,
+      "offset": 16109,
       "length": 23,
       "value": "\"スリープエラー\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 16573,
+      "offset": 16591,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 17027,
+      "offset": 17051,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 18637,
+      "offset": 18661,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 19322,
+      "offset": 19346,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 19552,
+      "offset": 19576,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 19861,
+      "offset": 19885,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 19944,
+      "offset": 19968,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 19976,
+      "offset": 20000,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 20026,
+      "offset": 20050,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "IntegerLiteral",
-      "offset": 20306,
+      "offset": 20330,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 20889,
+      "offset": 20913,
       "length": 33,
       "value": "\"UI SCANを実行しますか？\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 20971,
+      "offset": 20995,
       "length": 120,
       "value": "\"OKを選択するとスキャンを開始します。\nスキャン中は画面をタップしないでください。\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 21234,
+      "offset": 21258,
       "length": 17,
       "value": "\"キャンセル\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 21412,
+      "offset": 21436,
       "length": 61,
       "value": "\"スクロール可能なUIを検知できませんでした\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 21522,
+      "offset": 21546,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 21630,
+      "offset": 21654,
       "length": 4,
       "value": "\"OK\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 21994,
+      "offset": 22018,
       "length": 16,
       "value": "\"UploadProgress\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "StringLiteral",
-      "offset": 22112,
+      "offset": 22136,
       "length": 16,
       "value": "\"uploadProgress\""
     },
