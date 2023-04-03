@@ -20,10 +20,10 @@ extension SwiftAutoScreenShot.AutoScreenShot {
   @_Concurrency.MainActor public func takeScreenShotWithoutScrollView(_ targetViewController: UIKit.UIViewController)
 }
 extension SwiftAutoScreenShot.AutoScreenShot {
-  @_Concurrency.MainActor public func takeScreenShot(targetScrollView: UIKit.UIScrollView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
-  @_Concurrency.MainActor public func takeScreenShotWithScroll(targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
+  @_Concurrency.MainActor public func takeScreenShot(targetScrollView: UIKit.UIScrollView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?, isInnerHeader: Swift.Bool)
+  @_Concurrency.MainActor public func takeScreenShotWithScroll(targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?, isInnerHeader: Swift.Bool)
 }
 extension SwiftAutoScreenShot.AutoScreenShot {
-  @_Concurrency.MainActor public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
-  @_Concurrency.MainActor public func takeScreenShotWithTableView(targetTableView: UIKit.UITableView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?)
+  @_Concurrency.MainActor public func takeScreenShot(with tableView: UIKit.UITableView, maxIndexPath: Foundation.IndexPath, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?, isInnerHeader: Swift.Bool)
+  @_Concurrency.MainActor public func takeScreenShotWithTableView(targetTableView: UIKit.UITableView, targetViewController: UIKit.UIViewController, bottomOffset: CoreFoundation.CGFloat, topOffset: CoreFoundation.CGFloat?, isInnerHeader: Swift.Bool)
 }
