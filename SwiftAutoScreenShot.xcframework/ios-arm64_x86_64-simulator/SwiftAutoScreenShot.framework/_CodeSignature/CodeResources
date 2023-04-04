@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		G/IVks7gRW0HMBxvLSI7wS+OdaY=
+		lEQv9l03prBNxBdo5wk4tSnO1p8=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		axHbBvfq80LqIh/Seq8iKFUqweA=
+		+63jUiOalyXWAgKEEgNN3PBmvkE=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		G/IVks7gRW0HMBxvLSI7wS+OdaY=
+		lEQv9l03prBNxBdo5wk4tSnO1p8=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gF9VnEiRib/S+45a7Wza0iziXTs=
+		7WcEXl90/jBujtDkLzPVlER15Ms=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			96eBzGz84BX8utYWM/zlOig+MYENNgdXv2DcYrmBAiw=
+			3kCG8Lyaa9SRafCmtXIcD+SNA20oy6EjVOBDogVj+cw=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2sK0xCd0I8yY9h+9QU2AVUJdc7+FlsjdML3rrIBG3ss=
+			Ci+z3TQ5PbRdH5gWtrrxoAODxYStAoC3KMK4FBUc8X8=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			96eBzGz84BX8utYWM/zlOig+MYENNgdXv2DcYrmBAiw=
+			3kCG8Lyaa9SRafCmtXIcD+SNA20oy6EjVOBDogVj+cw=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MV78fT0JWTrJxI9if7tZAGlRDXV6NtN1A+2X2FqnFTg=
+			22R0FJBCrdwsX3AauBczhukl37fAresWdLLMdTuDkhQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
