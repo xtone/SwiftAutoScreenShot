@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		lEQv9l03prBNxBdo5wk4tSnO1p8=
+		F+xP8g57sQL7KwBXg6JABRL5uyk=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		+63jUiOalyXWAgKEEgNN3PBmvkE=
+		uJ5dsesdUQVTkfJiYkFgDJnsIAU=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		lEQv9l03prBNxBdo5wk4tSnO1p8=
+		F+xP8g57sQL7KwBXg6JABRL5uyk=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7WcEXl90/jBujtDkLzPVlER15Ms=
+		nTdWwk907AUKxENiVHikazwAqm0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3kCG8Lyaa9SRafCmtXIcD+SNA20oy6EjVOBDogVj+cw=
+			5YbazERvcMEhMcrx1QkWYxePNN0lYbHbTvUmNtJHKbw=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ci+z3TQ5PbRdH5gWtrrxoAODxYStAoC3KMK4FBUc8X8=
+			zBjlyYZOMHEmuVcN+9JJknkjJpPT70UjH4WLsz/3jGI=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3kCG8Lyaa9SRafCmtXIcD+SNA20oy6EjVOBDogVj+cw=
+			5YbazERvcMEhMcrx1QkWYxePNN0lYbHbTvUmNtJHKbw=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			22R0FJBCrdwsX3AauBczhukl37fAresWdLLMdTuDkhQ=
+			CfeeesbJ3LBGswBDsVTr6FcymSjKK+cYCOpRZ8S66Hg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
