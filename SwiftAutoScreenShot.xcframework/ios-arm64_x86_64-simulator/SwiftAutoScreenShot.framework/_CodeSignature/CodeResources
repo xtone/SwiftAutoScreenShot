@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		jFlvsYyiarc5o8d41yGidZKuolY=
+		r2RtQnen+z9DA6l2HTv/optSmZQ=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LsPkzFCTIHIQbCqiOfV05QBqzlQ=
+		0N4Db/cCkFFXLpth+0jFfk8xU8c=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		jFlvsYyiarc5o8d41yGidZKuolY=
+		r2RtQnen+z9DA6l2HTv/optSmZQ=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ji7ZD1xVbfHsLjOpEs4Dy67El/U=
+		Ah8mVqHu4s18mNhX7f6RqE2hGRU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6SwOJpMEqFUE+calYDtRRk2XMibrohNEieufJ/nVLhE=
+			+Y0HdGOk+/JKvgLd97R5H995XkRTsNAGmqf419qG+BE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9zMrqGJT7Pft+PGpX+Hojes+ESB+i+hjfh3z6NkaF+s=
+			r0f0rwob4nJj5igpkCXmgnJSHAeCMPdlk/4/tU96TBo=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6SwOJpMEqFUE+calYDtRRk2XMibrohNEieufJ/nVLhE=
+			+Y0HdGOk+/JKvgLd97R5H995XkRTsNAGmqf419qG+BE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7ydp4NAer/aV4qNh99koIjQqMkWzKjPBKkfxuEeEpTI=
+			xc/btYrseNNWFl+gpEaS1NdskjCXrg9Brs11/AxP1pg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
