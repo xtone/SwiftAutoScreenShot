@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		07Z4z0Pju/qXLcflYNpXUWipR8U=
+		0KsVhvJjGr9SAlEhrMzX14nsqN0=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -38,7 +38,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		07Z4z0Pju/qXLcflYNpXUWipR8U=
+		0KsVhvJjGr9SAlEhrMzX14nsqN0=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qo5Gje+VIN87PZtzPkFkUQPRdbZBiLG+2Lz/Pizd6QA=
+			tbXlw5ngNbfVXCB/imRyRpI/aJTArkzGTQM1RWZk1IE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -132,7 +132,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qo5Gje+VIN87PZtzPkFkUQPRdbZBiLG+2Lz/Pizd6QA=
+			tbXlw5ngNbfVXCB/imRyRpI/aJTArkzGTQM1RWZk1IE=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
