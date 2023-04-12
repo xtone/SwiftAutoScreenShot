@@ -22,8 +22,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "SwiftAutoScreenShot",
-            url: "https://github.com/xtone/SwiftAutoScreenShot/releases/download/2023_0412_ver0.10059/SwiftAutoScreenShot.xcframework.zip",
-            checksum: "c687a8779bea4d3b2e2f1c6a7dce960044a3d12188c7922db8ef5b7f5cfa5e9a"
+            url: "https://github.com/xtone/SwiftAutoScreenShot/releases/download/2023_0412_ver0.10060/SwiftAutoScreenShot.xcframework.zip",
+            checksum: "f36572a77d87d49523987ec2aad6088113ea24dbbfa5f276a755daa9145529e9"
         )
     ]
 )

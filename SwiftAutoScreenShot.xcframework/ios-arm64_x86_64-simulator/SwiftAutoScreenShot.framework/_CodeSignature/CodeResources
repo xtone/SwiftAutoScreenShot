@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		QyagFPkEDZDx3ywgEXdxLYE38sY=
+		IJ7TfJUvvria5p78t9LbTpAZFTM=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ereLK1XnQwMvzuUU9HN9lW7Zurk=
+		yOZce6SoAiDZfpNj6KUOvj7iYaQ=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		QyagFPkEDZDx3ywgEXdxLYE38sY=
+		IJ7TfJUvvria5p78t9LbTpAZFTM=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8lplzmG3qps2ZniTwhWW1RwR8N4=
+		nUemihAhCgYoVdWGhuS1TK4f1/w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0yRXc2wXEbci5cdqONRuV5IVeQeh/+YIeXmNPCgslDA=
+			wQ1Skxy0/NGN+6zAALrk6F56pYeAp2N3L+oBAHYMtzc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			StRpMgnFMR84p6mOTqZgRNkCr0m750snVQryQUl0lFU=
+			Gk4ZSNd5F3MxiI8ws9JnZKpgAWwP0GsTYxciz+RAcZ4=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0yRXc2wXEbci5cdqONRuV5IVeQeh/+YIeXmNPCgslDA=
+			wQ1Skxy0/NGN+6zAALrk6F56pYeAp2N3L+oBAHYMtzc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			e7gC5toOiYt2cq6GTnhdmDrJgwqjoAVDm31/KDtRiSU=
+			EwTo5WMLR2dJuKRMFYtm2+mXj0VPtvQ+NJ0YTskekAg=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
