@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		IJ7TfJUvvria5p78t9LbTpAZFTM=
+		KSbvO/Xc88F/UUPiBScjpGN2Unc=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		yOZce6SoAiDZfpNj6KUOvj7iYaQ=
+		sIf/RUiOUOcSJDuAZZNo+QCRK5E=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		IJ7TfJUvvria5p78t9LbTpAZFTM=
+		KSbvO/Xc88F/UUPiBScjpGN2Unc=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		nUemihAhCgYoVdWGhuS1TK4f1/w=
+		Jtui5U5RbAt+aqkOK5ns/zIXNto=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wQ1Skxy0/NGN+6zAALrk6F56pYeAp2N3L+oBAHYMtzc=
+			QtByEf1QGJDlZzLOSCYunTbQMGL14/A3wu4oBJ4RhPc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Gk4ZSNd5F3MxiI8ws9JnZKpgAWwP0GsTYxciz+RAcZ4=
+			kESeWs/XCaN934YFwy9Xy9IkjVZNZqcY6QJRp5d3iew=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wQ1Skxy0/NGN+6zAALrk6F56pYeAp2N3L+oBAHYMtzc=
+			QtByEf1QGJDlZzLOSCYunTbQMGL14/A3wu4oBJ4RhPc=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			EwTo5WMLR2dJuKRMFYtm2+mXj0VPtvQ+NJ0YTskekAg=
+			2Lm4iAV4Uw3WkSplE8u4dg7R04ZQDkUQgDYOGyWwPqI=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
