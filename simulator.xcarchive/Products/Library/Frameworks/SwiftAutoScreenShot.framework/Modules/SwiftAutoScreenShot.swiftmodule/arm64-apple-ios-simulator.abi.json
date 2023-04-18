@@ -1330,10 +1330,17 @@
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
-      "kind": "StringLiteral",
-      "offset": 13009,
+      "kind": "IntegerLiteral",
+      "offset": 12951,
       "length": 2,
-      "value": "\"\""
+      "value": "19"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12990,
+      "length": 2,
+      "value": "30"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
@@ -1394,63 +1401,91 @@
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "IntegerLiteral",
-      "offset": 13983,
+      "offset": 14041,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14088,
+      "length": 2,
+      "value": "19"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "FloatLiteral",
-      "offset": 14036,
+      "offset": 14198,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "BooleanLiteral",
-      "offset": 14052,
+      "offset": 14214,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "StringLiteral",
+      "offset": 14244,
+      "length": 17,
+      "value": "\"matching failed\""
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "FloatLiteral",
+      "offset": 14386,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14402,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 14269,
+      "offset": 14619,
       "length": 109,
       "value": "\"https:\/\/app.ui-scan.com\/project\/scan-results\/?ti=\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 14328,
+      "offset": 14678,
       "length": 1,
       "value": "\"&th=\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 14343,
+      "offset": 14693,
       "length": 1,
       "value": "\"&pi=\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 14359,
+      "offset": 14709,
       "length": 1,
       "value": "\"&ph=\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 14377,
+      "offset": 14727,
       "length": 1,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 14401,
+      "offset": 14751,
       "length": 85,
       "value": "\"以下のURLにアクセスいただくと比較結果をご覧いただけます\n\""
     },
