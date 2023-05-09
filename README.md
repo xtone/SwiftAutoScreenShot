@@ -76,11 +76,12 @@ class SampleViewController: UIViewController {
         }
 
         let bottomPointInNavBar = CGPoint(x: 0, y: navigationBar.frame.height)
-        let bottomPointInView = navigationBar.convert(bottomPointInNavBar, to: view)
+        // +1, because a shadow is set by default for UINavigationBar.
+        let bottomPointInView = navigationBar.convert(bottomPointInNavBar, to: view).y + 1
 
         AutoScreenShot.shared.takeScreenShot(targetScrollView: scrollView,
                                              targetViewController: self,
-                                             outerTopOffset: bottomPointInView.y,
+                                             outerTopOffset: bottomPointInView,
                                              outerBottomOffset: 0,
                                              innerTopOffset: 0,
                                              innerBottomOffset: 0)
