@@ -6,6 +6,7 @@ import Foundation
 import Photos
 import Swift
 @_exported import SwiftAutoScreenShot
+import SwiftUI
 import UIKit
 import WebKit
 import _Concurrency
@@ -29,4 +30,27 @@ extension SwiftAutoScreenShot.AutoScreenShot {
 }
 extension SwiftAutoScreenShot.AutoScreenShot {
   @_Concurrency.MainActor public func takeScreenshotWithWebView(targetWebView: WebKit.WKWebView, targetViewController: UIKit.UIViewController, outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
+}
+public protocol SUAutoScreenShot {
+  func screenShot(topOffset: CoreFoundation.CGPoint, imageSize: CoreFoundation.CGSize, targetView: UIKit.UIView?) -> UIKit.UIImage?
+  @_Concurrency.MainActor func takeScreenShotWithScroll(outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class SUAutoScreenShotUIViewController : UIKit.UIViewController, SwiftAutoScreenShot.SUAutoScreenShot {
+  @_Concurrency.MainActor public func screenShot(topOffset: CoreFoundation.CGPoint, imageSize: CoreFoundation.CGSize, targetView: UIKit.UIView?) -> UIKit.UIImage?
+  @_Concurrency.MainActor public func takeScreenShotWithScroll(outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+public struct SUAutoScreenShotViewController : SwiftUI.UIViewControllerRepresentable {
+  public typealias UIViewControllerType = SwiftAutoScreenShot.SUAutoScreenShotUIViewController
+  public init(_ closure: @escaping (any SwiftAutoScreenShot.SUAutoScreenShot) -> Swift.Void)
+  @_Concurrency.MainActor(unsafe) public func makeUIViewController(context: SwiftAutoScreenShot.SUAutoScreenShotViewController.Context) -> SwiftAutoScreenShot.SUAutoScreenShotUIViewController
+  @_Concurrency.MainActor(unsafe) public func updateUIViewController(_ uiViewController: SwiftAutoScreenShot.SUAutoScreenShotUIViewController, context: SwiftAutoScreenShot.SUAutoScreenShotViewController.Context)
+  public typealias Body = Swift.Never
+  public typealias Coordinator = Swift.Void
+}
+extension SwiftUI.View {
+  public func suAutoScreenShot(_ closure: @escaping (any SwiftAutoScreenShot.SUAutoScreenShot) -> Swift.Void) -> some SwiftUI.View
+  
 }

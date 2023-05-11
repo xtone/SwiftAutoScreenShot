@@ -616,6 +616,620 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "SwiftUI",
+        "printedName": "SwiftUI",
+        "declKind": "Import",
+        "moduleName": "SwiftAutoScreenShot"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SUAutoScreenShot",
+        "printedName": "SUAutoScreenShot",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "screenShot",
+            "printedName": "screenShot(topOffset:imageSize:targetView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot06SUAutocD0P06screenD09topOffset9imageSize10targetViewSo7UIImageCSgSo7CGPointV_So6CGSizeVSo6UIViewCSgtF",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD0P06screenD09topOffset9imageSize10targetViewSo7UIImageCSgSo7CGPointV_So6CGSizeVSo6UIViewCSgtF",
+            "moduleName": "SwiftAutoScreenShot",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftAutoScreenShot.SUAutoScreenShot>",
+            "sugared_genericSig": "<Self where Self : SwiftAutoScreenShot.SUAutoScreenShot>",
+            "protocolReq": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "takeScreenShotWithScroll",
+            "printedName": "takeScreenShotWithScroll(outerTopOffset:outerBottomOffset:innerTopOffset:innerBottomOffset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot06SUAutocD0P04takecD10WithScroll14outerTopOffset0i6BottomK005innerjK00mlK0y14CoreFoundation7CGFloatV_A3KtF",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD0P04takecD10WithScroll14outerTopOffset0i6BottomK005innerjK00mlK0y12CoreGraphics7CGFloatV_A3KtF",
+            "moduleName": "SwiftAutoScreenShot",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftAutoScreenShot.SUAutoScreenShot>",
+            "sugared_genericSig": "<Self where Self : SwiftAutoScreenShot.SUAutoScreenShot>",
+            "protocolReq": true,
+            "declAttributes": [
+              "Custom"
+            ],
+            "reqNewWitnessTableEntry": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:19SwiftAutoScreenShot06SUAutocD0P",
+        "mangledName": "$s19SwiftAutoScreenShot06SUAutocD0P",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SUAutoScreenShotUIViewController",
+        "printedName": "SUAutoScreenShotUIViewController",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "screenShot",
+            "printedName": "screenShot(topOffset:imageSize:targetView:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIImage?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIImage",
+                    "printedName": "UIKit.UIImage",
+                    "usr": "c:objc(cs)UIImage"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGPoint",
+                "printedName": "CoreFoundation.CGPoint",
+                "usr": "c:@S@CGPoint"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGSize",
+                "printedName": "CoreFoundation.CGSize",
+                "usr": "c:@S@CGSize"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "UIKit.UIView?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "UIView",
+                    "printedName": "UIKit.UIView",
+                    "usr": "c:objc(cs)UIView"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot06SUAutocD16UIViewControllerC06screenD09topOffset9imageSize10targetViewSo7UIImageCSgSo7CGPointV_So6CGSizeVSo0F0CSgtF",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD16UIViewControllerC06screenD09topOffset9imageSize10targetViewSo7UIImageCSgSo7CGPointV_So6CGSizeVSo0F0CSgtF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl",
+              "Custom"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "takeScreenShotWithScroll",
+            "printedName": "takeScreenShotWithScroll(outerTopOffset:outerBottomOffset:innerTopOffset:innerBottomOffset:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "CGFloat",
+                "printedName": "CoreGraphics.CGFloat",
+                "usr": "s:14CoreFoundation7CGFloatV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot06SUAutocD16UIViewControllerC04takecD10WithScroll14outerTopOffset0k6BottomM005innerlM00onM0y14CoreFoundation7CGFloatV_A3KtF",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD16UIViewControllerC04takecD10WithScroll14outerTopOffset0k6BottomM005innerlM00onM0y12CoreGraphics7CGFloatV_A3KtF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl",
+              "Custom",
+              "RawDocComment"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(nibName:bundle:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SUAutoScreenShotUIViewController",
+                "printedName": "SwiftAutoScreenShot.SUAutoScreenShotUIViewController",
+                "usr": "c:@M@SwiftAutoScreenShot@objc(cs)SUAutoScreenShotUIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Foundation.Bundle?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Bundle",
+                    "printedName": "Foundation.Bundle",
+                    "usr": "c:objc(cs)NSBundle"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@SwiftAutoScreenShot@objc(cs)SUAutoScreenShotUIViewController(im)initWithNibName:bundle:",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD16UIViewControllerC7nibName6bundleACSSSg_So8NSBundleCSgtcfc",
+            "moduleName": "SwiftAutoScreenShot",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithNibName:bundle:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Override"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(coder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "SwiftAutoScreenShot.SUAutoScreenShotUIViewController?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SUAutoScreenShotUIViewController",
+                    "printedName": "SwiftAutoScreenShot.SUAutoScreenShotUIViewController",
+                    "usr": "c:@M@SwiftAutoScreenShot@objc(cs)SUAutoScreenShotUIViewController"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "NSCoder",
+                "printedName": "Foundation.NSCoder",
+                "usr": "c:objc(cs)NSCoder"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "c:@M@SwiftAutoScreenShot@objc(cs)SUAutoScreenShotUIViewController(im)initWithCoder:",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD16UIViewControllerC5coderACSgSo7NSCoderC_tcfc",
+            "moduleName": "SwiftAutoScreenShot",
+            "overriding": true,
+            "implicit": true,
+            "objc_name": "initWithCoder:",
+            "declAttributes": [
+              "Dynamic",
+              "ObjC",
+              "Custom",
+              "Required"
+            ],
+            "init_kind": "Designated"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "c:@M@SwiftAutoScreenShot@objc(cs)SUAutoScreenShotUIViewController",
+        "mangledName": "$s19SwiftAutoScreenShot06SUAutocD16UIViewControllerC",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "Custom",
+          "AccessControl",
+          "RawDocComment",
+          "ObjC"
+        ],
+        "superclassUsr": "c:objc(cs)UIViewController",
+        "inheritsConvenienceInitializers": true,
+        "superclassNames": [
+          "UIKit.UIViewController",
+          "UIKit.UIResponder",
+          "ObjectiveC.NSObject"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "SUAutoScreenShot",
+            "printedName": "SUAutoScreenShot",
+            "usr": "s:19SwiftAutoScreenShot06SUAutocD0P",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD0P"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObservingPublishing",
+            "printedName": "_KeyValueCodingAndObservingPublishing",
+            "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+            "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_KeyValueCodingAndObserving",
+            "printedName": "_KeyValueCodingAndObserving",
+            "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+            "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "SUAutoScreenShotViewController",
+        "printedName": "SUAutoScreenShotViewController",
+        "children": [
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SUAutoScreenShotViewController",
+                "printedName": "SwiftAutoScreenShot.SUAutoScreenShotViewController",
+                "usr": "s:19SwiftAutoScreenShot06SUAutocD14ViewControllerV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SwiftAutoScreenShot.SUAutoScreenShot) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SUAutoScreenShot",
+                    "printedName": "SwiftAutoScreenShot.SUAutoScreenShot",
+                    "usr": "s:19SwiftAutoScreenShot06SUAutocD0P"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:19SwiftAutoScreenShot06SUAutocD14ViewControllerVyACyAA0ecD0_pccfc",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD14ViewControllerVyACyAA0ecD0_pccfc",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "makeUIViewController",
+            "printedName": "makeUIViewController(context:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "SUAutoScreenShotUIViewController",
+                "printedName": "SwiftAutoScreenShot.SUAutoScreenShotUIViewController",
+                "usr": "c:@M@SwiftAutoScreenShot@objc(cs)SUAutoScreenShotUIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewControllerRepresentableContext",
+                "printedName": "SwiftUI.UIViewControllerRepresentableContext<SwiftAutoScreenShot.SUAutoScreenShotViewController>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SUAutoScreenShotViewController",
+                    "printedName": "SwiftAutoScreenShot.SUAutoScreenShotViewController",
+                    "usr": "s:19SwiftAutoScreenShot06SUAutocD14ViewControllerV"
+                  }
+                ],
+                "usr": "s:7SwiftUI36UIViewControllerRepresentableContextV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot06SUAutocD14ViewControllerV010makeUIViewG07contextAA0ecdiG0C0A2UI0iG20RepresentableContextVyACG_tF",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD14ViewControllerV010makeUIViewG07contextAA0ecdiG0C0A2UI0iG20RepresentableContextVyACG_tF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "updateUIViewController",
+            "printedName": "updateUIViewController(_:context:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "SUAutoScreenShotUIViewController",
+                "printedName": "SwiftAutoScreenShot.SUAutoScreenShotUIViewController",
+                "usr": "c:@M@SwiftAutoScreenShot@objc(cs)SUAutoScreenShotUIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewControllerRepresentableContext",
+                "printedName": "SwiftUI.UIViewControllerRepresentableContext<SwiftAutoScreenShot.SUAutoScreenShotViewController>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SUAutoScreenShotViewController",
+                    "printedName": "SwiftAutoScreenShot.SUAutoScreenShotViewController",
+                    "usr": "s:19SwiftAutoScreenShot06SUAutocD14ViewControllerV"
+                  }
+                ],
+                "usr": "s:7SwiftUI36UIViewControllerRepresentableContextV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:19SwiftAutoScreenShot06SUAutocD14ViewControllerV012updateUIViewG0_7contextyAA0ecdiG0C_0A2UI0iG20RepresentableContextVyACGtF",
+            "mangledName": "$s19SwiftAutoScreenShot06SUAutocD14ViewControllerV012updateUIViewG0_7contextyAA0ecdiG0C_0A2UI0iG20RepresentableContextVyACGtF",
+            "moduleName": "SwiftAutoScreenShot",
+            "declAttributes": [
+              "Custom",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:19SwiftAutoScreenShot06SUAutocD14ViewControllerV",
+        "mangledName": "$s19SwiftAutoScreenShot06SUAutocD14ViewControllerV",
+        "moduleName": "SwiftAutoScreenShot",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "UIViewControllerRepresentable",
+            "printedName": "UIViewControllerRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "UIViewControllerType",
+                "printedName": "UIViewControllerType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SUAutoScreenShotUIViewController",
+                    "printedName": "SwiftAutoScreenShot.SUAutoScreenShotUIViewController",
+                    "usr": "c:@M@SwiftAutoScreenShot@objc(cs)SUAutoScreenShotUIViewController"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Coordinator",
+                "printedName": "Coordinator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI29UIViewControllerRepresentableP",
+            "mangledName": "$s7SwiftUI29UIViewControllerRepresentableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "View",
+            "printedName": "View",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Body",
+                "printedName": "Body",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Never",
+                    "printedName": "Swift.Never",
+                    "usr": "s:s5NeverO"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:7SwiftUI4ViewP",
+            "mangledName": "$s7SwiftUI4ViewP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -623,6 +1237,109 @@
         "declAttributes": [
           "RawDocComment"
         ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "View",
+        "printedName": "View",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "suAutoScreenShot",
+            "printedName": "suAutoScreenShot(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ModifiedContent",
+                "printedName": "SwiftUI.ModifiedContent<τ_0_0, SwiftUI._OverlayModifier<SwiftUI.ModifiedContent<SwiftAutoScreenShot.SUAutoScreenShotViewController, SwiftUI._AllowsHitTestingModifier>>>",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "_OverlayModifier",
+                    "printedName": "SwiftUI._OverlayModifier<SwiftUI.ModifiedContent<SwiftAutoScreenShot.SUAutoScreenShotViewController, SwiftUI._AllowsHitTestingModifier>>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "ModifiedContent",
+                        "printedName": "SwiftUI.ModifiedContent<SwiftAutoScreenShot.SUAutoScreenShotViewController, SwiftUI._AllowsHitTestingModifier>",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "SUAutoScreenShotViewController",
+                            "printedName": "SwiftAutoScreenShot.SUAutoScreenShotViewController",
+                            "usr": "s:19SwiftAutoScreenShot06SUAutocD14ViewControllerV"
+                          },
+                          {
+                            "kind": "TypeNominal",
+                            "name": "_AllowsHitTestingModifier",
+                            "printedName": "SwiftUI._AllowsHitTestingModifier",
+                            "usr": "s:7SwiftUI25_AllowsHitTestingModifierV"
+                          }
+                        ],
+                        "usr": "s:7SwiftUI15ModifiedContentV"
+                      }
+                    ],
+                    "usr": "s:7SwiftUI16_OverlayModifierV"
+                  }
+                ],
+                "usr": "s:7SwiftUI15ModifiedContentV"
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(SwiftAutoScreenShot.SUAutoScreenShot) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SUAutoScreenShot",
+                    "printedName": "SwiftAutoScreenShot.SUAutoScreenShot",
+                    "usr": "s:19SwiftAutoScreenShot06SUAutocD0P"
+                  }
+                ]
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7SwiftUI4ViewP0A14AutoScreenShotE02sudeF0yQryAD06SUAutoeF0_pcF",
+            "mangledName": "$s7SwiftUI4ViewP0A14AutoScreenShotE02sudeF0yQryAD06SUAutoeF0_pcF",
+            "moduleName": "SwiftAutoScreenShot",
+            "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
+            "sugared_genericSig": "<Self where Self : SwiftUI.View>",
+            "declAttributes": [
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Protocol",
+        "usr": "s:7SwiftUI4ViewP",
+        "mangledName": "$s7SwiftUI4ViewP",
+        "moduleName": "SwiftUI",
+        "genericSig": "<τ_0_0.Body : SwiftUI.View>",
+        "sugared_genericSig": "<Self.Body : SwiftUI.View>",
+        "intro_Macosx": "10.15",
+        "intro_iOS": "13.0",
+        "intro_tvOS": "13.0",
+        "intro_watchOS": "6.0",
+        "declAttributes": [
+          "TypeEraser",
+          "Available",
+          "Available",
+          "Available",
+          "Available"
+        ],
+        "isExternal": true
       }
     ],
     "json_format_version": 8
@@ -2118,6 +2835,216 @@
       "offset": 787,
       "length": 39,
       "value": "\"init(coder:) has not been implemented\""
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1627,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "FloatLiteral",
+      "offset": 3517,
+      "length": 3,
+      "value": "0.0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3555,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4561,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6633,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6639,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8254,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8285,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "FloatLiteral",
+      "offset": 8353,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 8570,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10261,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 10292,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "FloatLiteral",
+      "offset": 10361,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10436,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11102,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 11106,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12034,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12065,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "FloatLiteral",
+      "offset": 12263,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 12495,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12985,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13437,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13515,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 13824,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14122,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14154,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14204,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "IntegerLiteral",
+      "offset": 14270,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "FloatLiteral",
+      "offset": 15593,
+      "length": 3,
+      "value": "2.0"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 16685,
+      "length": 5,
+      "value": "false"
     }
   ]
 }
