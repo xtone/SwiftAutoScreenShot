@@ -34,6 +34,7 @@ extension SwiftAutoScreenShot.AutoScreenShot {
 public protocol SUAutoScreenShot {
   func screenShot(topOffset: CoreFoundation.CGPoint, imageSize: CoreFoundation.CGSize, targetView: UIKit.UIView?) -> UIKit.UIImage?
   @_Concurrency.MainActor func takeScreenShotWithScroll(outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor func takeScreenshotWithoutScroll()
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class SUAutoScreenShotUIViewController : UIKit.UIViewController, SwiftAutoScreenShot.SUAutoScreenShot {
   @_Concurrency.MainActor public func takeScreenshotWithoutScroll()
