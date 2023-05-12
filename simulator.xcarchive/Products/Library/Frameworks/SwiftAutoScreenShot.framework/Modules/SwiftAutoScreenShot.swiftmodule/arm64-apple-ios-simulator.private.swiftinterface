@@ -36,6 +36,7 @@ public protocol SUAutoScreenShot {
   @_Concurrency.MainActor func takeScreenShotWithScroll(outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class SUAutoScreenShotUIViewController : UIKit.UIViewController, SwiftAutoScreenShot.SUAutoScreenShot {
+  @_Concurrency.MainActor public func takeScreenshotWithoutScroll()
   @_Concurrency.MainActor public func screenShot(topOffset: CoreFoundation.CGPoint, imageSize: CoreFoundation.CGSize, targetView: UIKit.UIView?) -> UIKit.UIImage?
   @_Concurrency.MainActor public func takeScreenShotWithScroll(outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
