@@ -111,6 +111,50 @@ class SampleViewController: UIViewController {
 }
 ```
 
+### for SwiftUI
+
+It is possible to generate screenshots of the UI created with SwiftUI.
+However, there are many limitations, and in most cases it can only be used with simple screens.
+
+
+#### contain ScrollView
+```
+import SwiftAutoScreenShot
+import SwiftUI
+
+var body: some View {            
+        ZStack {
+            ScrollView {
+                listView1
+                listView2
+            }
+            .suAutoScreenShot { screenShotMaker in
+                screenShotMaker.takeScreenShotWithScroll(outerTopOffset: 0,
+                                                         outerBottomOffset: 0,
+                                                         innerTopOffset: 0,
+                                                         innerBottomOffset: 0)
+            }
+        }
+}
+```
+
+#### known issue
+
+Screenshots cannot be obtained in the following cases:
+
+- Screens that scroll and include a NavigationView (https://github.com/xtone/SwiftAutoScreenShot/issues/1)
+- Screens that scroll and include a TabView (https://github.com/xtone/SwiftAutoScreenShot/issues/2)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
