@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)
 // swift-module-flags: -target arm64-apple-ios14.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SwiftAutoScreenShot
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
@@ -19,10 +19,10 @@ import _StringProcessing
   @objc deinit
 }
 extension SwiftAutoScreenShot.AutoScreenShot {
-  @_Concurrency.MainActor public func takeScreenShotWithoutScrollView(_ targetViewController: UIKit.UIViewController)
+  @_Concurrency.MainActor public func takeScreenShot(_ targetViewController: UIKit.UIViewController)
 }
 extension SwiftAutoScreenShot.AutoScreenShot {
-  @_Concurrency.MainActor public func takeScreenShot(targetScrollView: UIKit.UIScrollView, targetViewController: UIKit.UIViewController, outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
+  @_Concurrency.MainActor public func takeScreenShotWithScroll(targetScrollView: UIKit.UIScrollView, targetViewController: UIKit.UIViewController, outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
   @_Concurrency.MainActor public func takeScreenShotWithScroll(targetViewController: UIKit.UIViewController, outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
 }
 extension SwiftAutoScreenShot.AutoScreenShot {
@@ -34,10 +34,10 @@ extension SwiftAutoScreenShot.AutoScreenShot {
 public protocol SUAutoScreenShot {
   func screenShot(topOffset: CoreFoundation.CGPoint, imageSize: CoreFoundation.CGSize, targetView: UIKit.UIView?) -> UIKit.UIImage?
   @_Concurrency.MainActor func takeScreenShotWithScroll(outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
-  @_Concurrency.MainActor func takeScreenshotWithoutScroll()
+  @_Concurrency.MainActor func takeScreenshot()
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class SUAutoScreenShotUIViewController : UIKit.UIViewController, SwiftAutoScreenShot.SUAutoScreenShot {
-  @_Concurrency.MainActor public func takeScreenshotWithoutScroll()
+  @_Concurrency.MainActor public func takeScreenshot()
   @_Concurrency.MainActor public func screenShot(topOffset: CoreFoundation.CGPoint, imageSize: CoreFoundation.CGSize, targetView: UIKit.UIView?) -> UIKit.UIImage?
   @_Concurrency.MainActor public func takeScreenShotWithScroll(outerTopOffset: CoreFoundation.CGFloat, outerBottomOffset: CoreFoundation.CGFloat, innerTopOffset: CoreFoundation.CGFloat, innerBottomOffset: CoreFoundation.CGFloat)
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
@@ -46,13 +46,13 @@ public protocol SUAutoScreenShot {
 }
 public struct SUAutoScreenShotViewController : SwiftUI.UIViewControllerRepresentable {
   public typealias UIViewControllerType = SwiftAutoScreenShot.SUAutoScreenShotUIViewController
-  public init(_ closure: @escaping (any SwiftAutoScreenShot.SUAutoScreenShot) -> Swift.Void)
+  public init(_ closure: @escaping (SwiftAutoScreenShot.SUAutoScreenShot) -> Swift.Void)
   @_Concurrency.MainActor(unsafe) public func makeUIViewController(context: SwiftAutoScreenShot.SUAutoScreenShotViewController.Context) -> SwiftAutoScreenShot.SUAutoScreenShotUIViewController
   @_Concurrency.MainActor(unsafe) public func updateUIViewController(_ uiViewController: SwiftAutoScreenShot.SUAutoScreenShotUIViewController, context: SwiftAutoScreenShot.SUAutoScreenShotViewController.Context)
   public typealias Body = Swift.Never
   public typealias Coordinator = Swift.Void
 }
 extension SwiftUI.View {
-  public func suAutoScreenShot(_ closure: @escaping (any SwiftAutoScreenShot.SUAutoScreenShot) -> Swift.Void) -> some SwiftUI.View
+  public func suAutoScreenShot(_ closure: @escaping (SwiftAutoScreenShot.SUAutoScreenShot) -> Swift.Void) -> some SwiftUI.View
   
 }
