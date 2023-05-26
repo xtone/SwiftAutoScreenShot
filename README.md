@@ -22,7 +22,7 @@ Add the following line to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/xtone/SwiftAutoScreenShot", from: "master")
+    .package(url: "https://github.com/xtone/SwiftAutoScreenShot", .branch("main")),
 ]
 ```
 
