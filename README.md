@@ -59,21 +59,15 @@ class SampleViewController: UIViewController {
 }
 ```
 
+Detailed references can be found [here](documents/Reference.md).
+
+
+
 ## known issue
 
 Screenshots cannot be obtained in the following cases:
 
 - Screens that scroll and include a NavigationView (https://github.com/xtone/SwiftAutoScreenShot/issues/1)
-
-
-
-
-
-
-
-
-
-
 
 
 
