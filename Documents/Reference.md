@@ -211,7 +211,7 @@ public func takeScreenshot()
 <summary>func <span style="color: blue; "> takeScreenShotWithScroll(outerTopOffset: 
                                   outerBottomOffset:
                                   innerTopOffset:
-                                  innerBottomOffset:)</span></summary>
+                                  innerBottomOffset:)</summary>
 
 ##### Explanation
 This is the method to use when the screen scrolls, like in a ListView. It takes screenshots while scrolling vertically and eventually combines them to create a single screenshot.
