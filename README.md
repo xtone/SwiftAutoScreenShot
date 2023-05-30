@@ -47,7 +47,7 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
 
 ### TakeScreenShot
 Below is a simple sample code for taking a screenshot.
-[Please check the Usage for more details.](documents/Usage.md)
+[Please check the Usage for more details.](Documents/Usage.md)
 ```swift
 import SwiftAutoScreenShot
 import UIKit
@@ -62,7 +62,7 @@ class SampleViewController: UIViewController {
 }
 ```
 
-Detailed references can be found [here](documents/Reference.md).
+Detailed references can be found [here](Documents/Reference.md).
 
 ## known issue
 
