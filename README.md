@@ -10,9 +10,9 @@
 
 ## Requirements
 
-- iOS 14.0+
+- iOS 15.0+
 - Xcode 13.0+
-- Swift 5.0+
+- Swift 5.5+
 
 ## Installation
 
@@ -27,6 +27,9 @@ dependencies: [
 ```
 or
 Please select `PackageDependencies` and search for `SwiftAutoScreenShot`. Afterwards, select branch and main under Dependency Rule.
+
+#### Info.pist
+To save screenshots to your device, please set the `Privacy - Photo Library Usage Description` in your info.plist.
 
 ## Usage 
 
@@ -60,8 +63,6 @@ class SampleViewController: UIViewController {
 ```
 
 Detailed references can be found [here](documents/Reference.md).
-
-
 
 ## known issue
 
