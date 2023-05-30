@@ -29,7 +29,7 @@ class SampleViewController: UIViewController {
 
         // ex. get navigation bar bottom position for screenshot top offset
         guard let navigationBar = navigationController?.navigationBar else {
-            return nil
+            return
         }
 
         let bottomPointInNavBar = CGPoint(x: 0, y: navigationBar.frame.height)
@@ -60,7 +60,7 @@ class SampleViewController: UIViewController {
 
         // ex. get navigation bar bottom position for screenshot top offset
         guard let navigationBar = navigationController?.navigationBar else {
-            return nil
+            return
         }
 
         let bottomPointInNavBar = CGPoint(x: 0, y: navigationBar.frame.height)

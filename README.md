@@ -71,6 +71,11 @@ Screenshots cannot be obtained in the following cases:
 - Screens that scroll and include a NavigationView (https://github.com/xtone/SwiftAutoScreenShot/issues/1)
 
 
+There may be cases where the progress indicating the upload progress of screenshots is not displayed.
+- issue: https://github.com/xtone/SwiftAutoScreenShot/issues/3
+
+
+
 
 
 
