@@ -1480,14 +1480,14 @@
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1415,
+      "offset": 911,
       "length": 16,
       "value": "\"UploadProgress\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1533,
+      "offset": 1029,
       "length": 16,
       "value": "\"uploadProgress\""
     }

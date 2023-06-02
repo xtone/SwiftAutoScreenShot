@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		j+P3OT1G8V8JWAJTKBfFqDxqNJc=
+		JXhcgnomYA4d1q5Ayq7yqFs4TvE=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		VsxDi26HM/XOa5oe4zsnnPBrzmg=
+		+Kd26gtv0yE0QN5trehnTBk5HGM=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		j+P3OT1G8V8JWAJTKBfFqDxqNJc=
+		JXhcgnomYA4d1q5Ayq7yqFs4TvE=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LgLdSuddP9bde00aE8qof6C6mXQ=
+		8fDZ9+ptWUcc7FOjgOWlLderBaI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>UploadProgress.storyboardc/uXM-50-QAG-view-af6-1S-2xP.nib</key>
 		<data>
-		SZa+TcwUcL+OgxL1IJ6F9kFh5EM=
+		B22wTmcduMrcG2qiD/i1T060hY4=
 		</data>
 		<key>UploadProgress.storyboardc/uploadProgress.nib</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			784xG8lp7RHJ+f5SLBXzGN+YHjrd8u7vL9VPTiS3EoI=
+			x8tosUOfPjmulvzAYlaM3A+MoxHMrdvaHAMdKXJB/qo=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nzhYpDCAE5ri+b8BTaero0Pn1KNNfVExLEDSgDsvU00=
+			zHmPPAGxZbNnaAgjDBFRiDPI9cezHtotwM+rY8jaJx0=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			784xG8lp7RHJ+f5SLBXzGN+YHjrd8u7vL9VPTiS3EoI=
+			x8tosUOfPjmulvzAYlaM3A+MoxHMrdvaHAMdKXJB/qo=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8JRcrSdzVrxOTpERksS3zR9BYguDZg9t0u5ATI7cLY8=
+			YVCa2IDMuq9z6FZAvgaCunmqVHxitL5d5Xfy9ysYg8U=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -188,7 +188,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5CJqe8y91jM1jyJdyKLhnI/JOsn/Kf+7R2s0LTDzGxc=
+			ATeWJLruOyziTtuWdlb/7mnADZq1+iHD9CxHKE4OZIs=
 			</data>
 		</dict>
 		<key>UploadProgress.storyboardc/uploadProgress.nib</key>
