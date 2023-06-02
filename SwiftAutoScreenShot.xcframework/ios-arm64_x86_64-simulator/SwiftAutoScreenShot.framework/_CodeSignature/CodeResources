@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		5LfUsmxBC9JqcA+uD2sb4Dcktv0=
+		j+P3OT1G8V8JWAJTKBfFqDxqNJc=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		qv9yjOjpKotIbjlpnWcgQJW6SdY=
+		VsxDi26HM/XOa5oe4zsnnPBrzmg=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		5LfUsmxBC9JqcA+uD2sb4Dcktv0=
+		j+P3OT1G8V8JWAJTKBfFqDxqNJc=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		LbwglMbZ0hBC3ccC1H5+BsidXtU=
+		LgLdSuddP9bde00aE8qof6C6mXQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wNytgAv92tRXzy0OcyHnf8NQ53GdLNQAm+DXehmCeN4=
+			784xG8lp7RHJ+f5SLBXzGN+YHjrd8u7vL9VPTiS3EoI=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eTssccZsWmqR6ipAJeDi5MSQt/2wQovT+2D7zojQSik=
+			nzhYpDCAE5ri+b8BTaero0Pn1KNNfVExLEDSgDsvU00=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wNytgAv92tRXzy0OcyHnf8NQ53GdLNQAm+DXehmCeN4=
+			784xG8lp7RHJ+f5SLBXzGN+YHjrd8u7vL9VPTiS3EoI=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2hX5NdtN4v7yAyw13rQxwm9bgMZ1P38l5Xy3uxq4o10=
+			8JRcrSdzVrxOTpERksS3zR9BYguDZg9t0u5ATI7cLY8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

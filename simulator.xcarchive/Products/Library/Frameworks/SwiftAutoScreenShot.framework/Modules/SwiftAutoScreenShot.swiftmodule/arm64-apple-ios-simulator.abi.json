@@ -1382,42 +1382,42 @@
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 234,
+      "offset": 487,
       "length": 43,
       "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/loginByKey\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 312,
+      "offset": 565,
       "length": 38,
       "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/teams\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 395,
+      "offset": 648,
       "length": 48,
       "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/screenshot\/send\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "StringLiteral",
-      "offset": 481,
+      "offset": 734,
       "length": 46,
       "value": "\"https:\/\/api.ui-scan.com\/api\/ex\/compareStatus\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "IntegerLiteral",
-      "offset": 627,
+      "offset": 880,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/ApiCleint.swift",
       "kind": "IntegerLiteral",
-      "offset": 707,
+      "offset": 960,
       "length": 1,
       "value": "5"
     },
@@ -1466,14 +1466,7 @@
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 2748,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/UploadProgress.swift",
-      "kind": "BooleanLiteral",
-      "offset": 508,
+      "offset": 2752,
       "length": 4,
       "value": "true"
     },
