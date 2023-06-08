@@ -64,6 +64,9 @@ class SampleViewController: UIViewController {
 
 Detailed references can be found [here](Documents/Reference.md).
 
+##### Tips
+[Tips is here](Documents/Tips.md)
+
 ## known issue
 
 Screenshots cannot be obtained in the following cases:
