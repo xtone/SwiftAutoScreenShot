@@ -41,7 +41,7 @@ To use SwiftAutoScreenShot, first obtain the apiKey and project ID from the web 
 import SwiftAutoScreenShot
 
 func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
-    AutoScreenShot.setup(apiKey: "your api key", projectId: "your project id")
+    AutoScreenShot.shared.setup(apiKey: "your api key", projectId: "your project id")
 }
 ```
 
@@ -76,6 +76,10 @@ Screenshots cannot be obtained in the following cases:
 
 There may be cases where the progress indicating the upload progress of screenshots is not displayed.
 - issue: https://github.com/xtone/SwiftAutoScreenShot/issues/3
+
+
+Due to a bug in Xcode, it is no longer possible to specify multiple targets. This issue has been confirmed to be fixed in Xcode 14.3.
+Additionally, when specifying multiple targets, please add them in the project settings under General > Frameworks, Libraries, and Embedded Content.
 
 
 

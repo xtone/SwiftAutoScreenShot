@@ -39,3 +39,8 @@ Conversely, if you have a UITableView but the dedicated method does not work wel
 In the method for WKWebView, similar to UITableView, it initially scrolls to the bottom. This is to load the entire screen once.
 
 Like UITableView, if it does not work well, please try using the method for UIScrollView. In that case, assign the scrollView property of the WKWebView to the targetScrollView argument.
+
+## Take screenshot for creating Views
+Immediately after calling `viewDidAppear`, screen creation may not be completely finished due to various asynchronous processes. In such cases, a screenshot is generated for the View that is in the process of being created.
+
+Therefore, if you want to generate a screenshot a little while after viewDidAppear has been called, use `DispatchQueue.main.asyncAfter(deadline:execute:)` or call the `takeScreenShot` method at the end of the asynchronous processing. However, make sure to always call the `takeScreenShot` method on the UI thread (main thread).
