@@ -57,5 +57,6 @@ extension SwiftUI.View {
   
 }
 extension SwiftUI.View {
-  public func testSnapshot(completionHandler: (UIKit.UIImage) -> Swift.Void) -> UIKit.UIImage
+  public func testSnapshot(completionHandler: (UIKit.UIImage) -> Swift.Void) -> some SwiftUI.View
+  
 }

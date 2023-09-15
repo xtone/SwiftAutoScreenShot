@@ -1390,9 +1390,8 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "UIImage",
-                "printedName": "UIKit.UIImage",
-                "usr": "c:objc(cs)UIImage"
+                "name": "GenericTypeParam",
+                "printedName": "τ_0_0"
               },
               {
                 "kind": "TypeFunc",
@@ -1417,8 +1416,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7SwiftUI4ViewP0A14AutoScreenShotE12testSnapshot17completionHandlerSo7UIImageCyAHXE_tF",
-            "mangledName": "$s7SwiftUI4ViewP0A14AutoScreenShotE12testSnapshot17completionHandlerSo7UIImageCyAHXE_tF",
+            "usr": "s:7SwiftUI4ViewP0A14AutoScreenShotE12testSnapshot17completionHandlerQrySo7UIImageCXE_tF",
+            "mangledName": "$s7SwiftUI4ViewP0A14AutoScreenShotE12testSnapshot17completionHandlerQrySo7UIImageCXE_tF",
             "moduleName": "SwiftAutoScreenShot",
             "genericSig": "<τ_0_0 where τ_0_0 : SwiftUI.View>",
             "sugared_genericSig": "<Self where Self : SwiftUI.View>",
@@ -3100,7 +3099,7 @@
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
       "kind": "BooleanLiteral",
-      "offset": 7001,
+      "offset": 7003,
       "length": 4,
       "value": "true"
     }
