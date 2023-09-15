@@ -56,3 +56,6 @@ extension SwiftUI.View {
   public func suAutoScreenShot(_ closure: @escaping (any SwiftAutoScreenShot.SUAutoScreenShot) -> Swift.Void) -> some SwiftUI.View
   
 }
+extension SwiftUI.View {
+  public func testSnapshot(completionHandler: (UIKit.UIImage) -> Swift.Void) -> UIKit.UIImage
+}
