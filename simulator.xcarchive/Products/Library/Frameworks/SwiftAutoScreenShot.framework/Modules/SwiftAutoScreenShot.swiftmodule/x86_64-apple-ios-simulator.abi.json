@@ -3051,6 +3051,13 @@
       "offset": 6244,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/SUAutoScreenShot.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6950,
+      "length": 4,
+      "value": "true"
     }
   ]
 }

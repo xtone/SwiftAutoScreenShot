@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		I6rzKStIssVbOFzbxpqCWRAbi10=
+		SnvYFzsbiarI133OoHhNqaVEJdU=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		IH7zqLe6HF4HHN4zHnpODbXd0Xo=
+		BZamDi+hdAzpxMqGvJ8ahYelUDg=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		I6rzKStIssVbOFzbxpqCWRAbi10=
+		SnvYFzsbiarI133OoHhNqaVEJdU=
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		uELXo+eqyeTIc+W9j2h1C+lZBuA=
+		AdzHN54I02rMgqMfIQ/z7WupW+k=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,7 +97,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pq3yEALQgu8H6RuR6UJkYf+H3Bk3zkFC1RHAxP0IZRc=
+			4SVYt8yMPhHPPV9dVcki1o6RFTYrDpZEIK2cpEdEO/U=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -125,14 +125,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vGPUD2uzKyp/r/PRNugKoArofgfNRwUWQXXTuotRKDc=
+			+6bfPgIIop7HWuA6U1HAGLgFo/5QXLf6BP7CAGdE+8o=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pq3yEALQgu8H6RuR6UJkYf+H3Bk3zkFC1RHAxP0IZRc=
+			4SVYt8yMPhHPPV9dVcki1o6RFTYrDpZEIK2cpEdEO/U=
 			</data>
 		</dict>
 		<key>Modules/SwiftAutoScreenShot.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -160,7 +160,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			u/Q6ZbM+c/bSl6L0z9Yww031MXEBQsR+9lwZykU9lRc=
+			hL1Gncpb3SL1RK5eBTRgpNEHQhYA2ajJbEpSS3EPsho=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
