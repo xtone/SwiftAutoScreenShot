@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
 // swift-module-flags: -target arm64-apple-ios14.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name SwiftAutoScreenShot
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import Foundation
@@ -11,6 +11,7 @@ import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
+import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class AutoScreenShot {
   public var isSaveAllScreenShot: Swift.Bool
   public var saveImageToLocal: Swift.Bool
@@ -54,9 +55,5 @@ public struct SUAutoScreenShotViewController : SwiftUI.UIViewControllerRepresent
 }
 extension SwiftUI.View {
   public func suAutoScreenShot(_ closure: @escaping (any SwiftAutoScreenShot.SUAutoScreenShot) -> Swift.Void) -> some SwiftUI.View
-  
-}
-extension SwiftUI.View {
-  public func testSnapshot(completionHandler: (UIKit.UIImage) -> Swift.Void) -> some SwiftUI.View
   
 }

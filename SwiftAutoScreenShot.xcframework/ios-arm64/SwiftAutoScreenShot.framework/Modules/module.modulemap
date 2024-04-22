@@ -1,7 +1,7 @@
 framework module SwiftAutoScreenShot {
   umbrella header "SwiftAutoScreenShot.h"
-
   export *
+
   module * { export * }
 }
 
