@@ -1,12 +1,12 @@
 # SwiftAutoScreenShot
 
-"SwiftAutoScreenShot" is a library for semi-automatically creating and simultaneously sending screenshots of your app to the XXX service
+"SwiftAutoScreenShot" is a library for semi-automatically creating and simultaneously sending screenshots of your app to the UI SCAN service
 
 ## Features
 
 - Semi Automatically take screenshots of your app
 - Full Screen screenshots contains scroll of your app
-- Automatically Upload screenshot to XXX
+- Automatically Upload screenshot to UI SCAN
 
 ## Requirements
 
