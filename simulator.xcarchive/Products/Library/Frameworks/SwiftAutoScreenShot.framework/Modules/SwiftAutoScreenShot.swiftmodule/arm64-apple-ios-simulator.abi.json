@@ -2811,209 +2811,209 @@
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
       "offset": 289,
-      "length": 10,
-      "value": "\"Run XXX?\""
+      "length": 14,
+      "value": "\"Run UI SCAN?\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 348,
+      "offset": 352,
       "length": 85,
       "value": "\"If you select OK, the scan will start. Please do not tap the screen while scanning.\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 576,
+      "offset": 580,
       "length": 8,
       "value": "\"Cancel\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 911,
+      "offset": 915,
       "length": 16,
       "value": "\"UploadProgress\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1029,
+      "offset": 1033,
       "length": 16,
       "value": "\"uploadProgress\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1279,
+      "offset": 1283,
       "length": 27,
       "value": "\"Screenshot capture failed\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1355,
+      "offset": 1359,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 1466,
+      "offset": 1470,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2628,
+      "offset": 2632,
       "length": 15,
       "value": "\"Upload failed\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2692,
+      "offset": 2696,
       "length": 77,
       "value": "\"Please check your network connection and library settings, then scan again.\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 2879,
+      "offset": 2883,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3120,
+      "offset": 3124,
       "length": 17,
       "value": "\"Invalid API key\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3186,
+      "offset": 3190,
       "length": 35,
       "value": "\"Check your API key and try again.\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3331,
+      "offset": 3335,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3571,
+      "offset": 3575,
       "length": 19,
       "value": "\"Project not found\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3639,
+      "offset": 3643,
       "length": 52,
       "value": "\"Please check your library settings and scan again.\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 3801,
+      "offset": 3805,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4041,
+      "offset": 4045,
       "length": 18,
       "value": "\"Design not found\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4108,
+      "offset": 4112,
       "length": 42,
       "value": "\"Please upload the design and scan again.\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4260,
+      "offset": 4264,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4503,
+      "offset": 4507,
       "length": 29,
       "value": "\"Scanning may take some time\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4581,
+      "offset": 4585,
       "length": 54,
       "value": "\"Please check the scan results from the project page.\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4745,
+      "offset": 4749,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 4983,
+      "offset": 4987,
       "length": 13,
       "value": "\"Scan failed\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5045,
+      "offset": 5049,
       "length": 20,
       "value": "\"Please scan again.\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5175,
+      "offset": 5179,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5418,
+      "offset": 5422,
       "length": 33,
       "value": "\"Unable to connect to the server\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5500,
+      "offset": 5504,
       "length": 77,
       "value": "\"Please check your network connection and library settings, then scan again.\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "StringLiteral",
-      "offset": 5686,
+      "offset": 5690,
       "length": 7,
       "value": "\"Close\""
     },
     {
       "filePath": "\/Users\/goudaryuushi\/github\/SwiftAutoScreenShot_source\/SwiftAutoScreenShot\/AlertCreateHelper.swift",
       "kind": "IntegerLiteral",
-      "offset": 5846,
+      "offset": 5850,
       "length": 13,
       "value": "1000000000"
     },
