@@ -67,6 +67,12 @@ Detailed references can be found [here](Documents/Reference.md).
 ##### Tips
 [Tips is here](Documents/Tips.md)
 
+### FAQ
+
+#### When I run the app, it crashes. What could be the possible issue?
+It is possible that the explanation for the photo app's permissions is not added to the info.plist. Please check again if "Privacy - Photo Library Usage Description" is set.
+
+
 ## known issue
 
 Screenshots cannot be obtained in the following cases:
