@@ -44,6 +44,10 @@ func application(_ application: UIApplication, didFinishLaunchingWithOptions lau
     AutoScreenShot.shared.setup(apiKey: "your api key", projectId: "your project id")
 }
 ```
+#### Setup For Multi-moduel project
+Alternatively, in a multi-module project, within the module where you want to generate screenshots, please call the setup method at any point before the screenshot generation.
+For example, in the initializer of the View where the screenshots will be generated.
+
 
 ### TakeScreenShot
 Below is a simple sample code for taking a screenshot.
