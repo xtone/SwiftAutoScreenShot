@@ -1,6 +1,6 @@
-# SwiftAutoScreenShot
+# UI SCAN SDK for iOS(Swift)
 
-"SwiftAutoScreenShot" is a library for semi-automatically creating and simultaneously sending screenshots of your app to the UI SCAN service
+"UI SCAN SDK for iOS(Swift)" is a library for semi-automatically creating and simultaneously sending screenshots of your app to the UI SCAN service
 
 ## Features
 
@@ -22,7 +22,7 @@ Add the following line to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/xtone/SwiftAutoScreenShot", .branch("main")),
+    .package(url: "https://github.com/xtone/ui-scan-ios-sdk", .branch("main")),
 ]
 ```
 or
